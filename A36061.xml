@@ -1,0 +1,617 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A directory for the publique worship of God, throughout the three kingdoms of England, Scotland, and Ireland together with an ordinance of Parliament for the taking away of the Book of common-prayer, ... die Jovis, 13. Martii, 1644 / ordered by the Lords and Commons assembled in Parliament, that this ordinance and directory bee forthwith printed and published.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 86 KB of XML-encoded text transcribed from 48 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36061</idno>
+            <idno type="STC">Wing D1545</idno>
+            <idno type="STC">ESTC R210506</idno>
+            <idno type="EEBO-CITATION">11953733</idno>
+            <idno type="OCLC">ocm 11953733</idno>
+            <idno type="VID">51481</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36061)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51481)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 814:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A directory for the publique worship of God, throughout the three kingdoms of England, Scotland, and Ireland together with an ordinance of Parliament for the taking away of the Book of common-prayer, ... die Jovis, 13. Martii, 1644 / ordered by the Lords and Commons assembled in Parliament, that this ordinance and directory bee forthwith printed and published.</title>
+                  <author>England and Wales. Parliament. Ordinance of Parliament for the taking away of the Book of common prayer.</author>
+                  <author>Westminster Assembly (1643-1652)</author>
+               </titleStmt>
+               <extent>[6], 86, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Evan Tyler, Alexander Fifield, Ralph Smith, and John Field ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Item incorrectly identified as D1545 on film and reel guide.</note>
+                  <note>Table of contents at end.</note>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England. --  Book of common prayer.</term>
+               <term>Church of England --  Liturgy.</term>
+               <term>Public worship --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-07</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:51481:1"/>
+            <pb facs="tcp:51481:1"/>
+            <p>A DIRECTORY FOR The Publique VVorſhip of <hi>GOD,</hi> Throughout the Three KINGDOMS OF <hi>England, Scotland,</hi> and
+<hi>Ireland.</hi> Together with an Ordinance of Parlia<g ref="char:EOLhyphen"/>ment for the taking away of the Book of COMMON-PRAYER: AND For eſtabliſhing and obſerving of this preſent DIRECTORY throughout the Kingdom of <hi>England,</hi> and Dominion of
+<hi>Wales.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Jovis, 13. Martii,
+1644.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Lords and Commons aſſembled in Parliament, That this <hi>Ordinance</hi> and <hi>Directory</hi> bee forthwith Printed and Publiſhed:</p>
+                        <closer>
+                           <signed>Joh: Brown, Cleric. Parliamentorum.</signed>
+                        </closer>
+                        <closer>
+                           <signed>H: Elſynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>LONDON: Printed for <hi>Evan Tyler, Alexander Fifield, Ralph Smith,</hi> and <hi>John Field;</hi> And are to be ſold at the Sign of the Bible in Cornhill, neer the ROYALL-EXCHANGE. 1644.</p>
+         </div>
+         <div type="ordinance">
+            <pb facs="tcp:51481:2" rendition="simple:additions"/>
+            <pb facs="tcp:51481:2"/>
+            <opener>
+               <dateline>
+                  <date>Die Veneris, 3. Januarii,
+1644.</date>
+               </dateline>
+            </opener>
+            <head>An Ordinance of Parliament for the taking away of the Book of Common-Prayer, and for the eſtabliſhing and putting in execution of the Directory for the publique Worſhip of God.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Lords and Commons aſſem<g ref="char:EOLhyphen"/>bled in Parliament, taking into ſerious conſideration the mani<g ref="char:EOLhyphen"/>fold Inconveniences that have ariſen by the Book of Common-Prayer in this Kingdom, and reſolving, ac<g ref="char:EOLhyphen"/>cording to their Covenant, to reform Religi<g ref="char:EOLhyphen"/>on according to the Word of God, and the Example of the beſt Reformed Churches, have Conſulted with the Reverend, Pious and Learned Divines, called together to that purpoſe; And do judge it neceſſary that the ſaid Book of Common-Prayer be aboli<g ref="char:EOLhyphen"/>ſhed, &amp; the Directory for the Publique Wor<g ref="char:EOLhyphen"/>ſhip of God, herein after mentioned, be eſta<g ref="char:EOLhyphen"/>bliſhed and obſerved in all the Churches within this Kingdom: Be it therefore Or<g ref="char:EOLhyphen"/>dained by the Lords and Commons Aſſem<g ref="char:EOLhyphen"/>bled in Parliament, That the Statute of the ſecond and third years of King <hi>Edward</hi> the ſixth, Intituled, The Penalty for not u<g ref="char:EOLhyphen"/>ſing Vniformity of Service, and Admini<g ref="char:EOLhyphen"/>ſtration of Sacraments, &amp;c. And the Sta<g ref="char:EOLhyphen"/>tute<pb facs="tcp:51481:3"/>of the fifth and ſixt yeares of the ſame King, Intituled, Vniformity of Prayer, and Adminiſtration of Sacraments, ſhall be u<g ref="char:EOLhyphen"/>ſed in the Church: And ſo much of the Sta<g ref="char:EOLhyphen"/>tute of the firſt year of Queen <hi>Elizabeth,</hi> In<g ref="char:EOLhyphen"/>tituled, There ſhall be Vniformity of Prayer and Adminiſtration of Sacraments, as con<g ref="char:EOLhyphen"/>cernes the ſaid Book of Common-Prayer, and the Vniformity of Prayer, and Admini<g ref="char:EOLhyphen"/>ſtration of the Sacraments: And ſo much of the Statute of the fifth year of the ſame Queen, Intituled, By whoſe Order, the Bi<g ref="char:EOLhyphen"/>ble, and Book of Common-Prayer ſhall be Tranſlated into the Welch Tongue, as con<g ref="char:EOLhyphen"/>cerns the Book of Common-Prayer: And ſo much of the Statute of the eighth year of the ſame Queen, Intituled, All Acts made by any perſon ſince <hi>Primo Eliz.</hi> for the Conſe<g ref="char:EOLhyphen"/>crating, Inveſting, &amp;c. of any Archbiſhop, or Biſhop, ſhall be good, as concerns the ſaid Book; Be, and ſtand from henceforth Re<g ref="char:EOLhyphen"/>pealed, void, and of none effect, to all intents, conſtructions, and purpoſes whatſoever; And that the ſaid book of Common-Prayer, ſhall not remain, or be from henceforth uſed in any Church, Chappell, or place of Pub<g ref="char:EOLhyphen"/>lique Worſhip, within the Kingdom of
+<hi>Eng<g ref="char:EOLhyphen"/>land,</hi> or Dominion of <hi>Wales;</hi> And that the Directory for Publique Worſhip herein ſet<pb facs="tcp:51481:3"/>forth, ſhall be henceforth uſed, purſued, and obſerved, according to the true intent and meaning of this Ordinance, in all Exerciſes of the Publique Worſhip of God, in every Congregation, Church, Chappell, and place of Publique Worſhip within this Kingdom of <hi>England,</hi> and Dominion of <hi>Wales;</hi> Which Directory for the Publique Worſhip of God, with the Preface thereof followeth. And it is further Ordained by the Authority afore<g ref="char:EOLhyphen"/>ſaid, That there ſhall be provided at the charge of every Pariſh, or Chappelry in this Realm of
+<hi>England,</hi> and Dominion of <hi>Wales,</hi> a fair Regiſter Book of Velim, to be kept by the Miniſter and other Officers of the Church; And that the Names of all Children Baptized, and of their Parents, and of the time of their Birth and Bapti<g ref="char:EOLhyphen"/>zing, ſhall be written and ſet down by the Miniſter therein; And alſo the Names of all perſons Married there, and the time of their Marriage; And alſo the Names of all per<g ref="char:EOLhyphen"/>ſons Buried in that Pariſh, and the time of their Death and Buriall: And that the ſaid Book ſhall be ſhewed by ſuch as keep the ſame, to all perſons reaſonably deſiring to ſearch for the Birth, Baptizing, Marriage, or Buriall of any perſon therein Regiſtred, and to take a Copy, or procure a Certificate thereof.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:51481:4"/>
+            <head>A DIRECTORY FOR The Publique Worſhip OF GOD In the three KINGDOMES.</head>
+            <pb n="1" facs="tcp:51481:4"/>
+            <head>THE PREFACE.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N the beginning of the bleſſed Reformation, our wiſe and pi<g ref="char:EOLhyphen"/>ous Anceſtors took care to ſet forth an Order for Redreſſe of many things, which they, then, by the VVord diſcovered to be Vain, Erroneous, Superſtitious, and Idolatrous, in the Pub<g ref="char:EOLhyphen"/>lique VVorſhip of God. This occaſioned many Godly and Learned men to rejoyce much in the Book of Common-Prayer at that time ſet forth; Becauſe the Maſſe, and
+<pb n="2" facs="tcp:51481:5"/>the reſt of the Latine-Service being remo<g ref="char:EOLhyphen"/>ved, the Publique VVorſhip was celebra<g ref="char:EOLhyphen"/>ted in our own Tongue; many of the com<g ref="char:EOLhyphen"/>mon People alſo received benefit by hear<g ref="char:EOLhyphen"/>ing the Scriptures read in their own Lan<g ref="char:EOLhyphen"/>guage, which formerly were unto them as a Book that is ſealed.</p>
+            <p>Howbeit, long and ſad Experience hath made it manifeſt, That the Leiturgie uſed in the Church of <hi>England,</hi> (notwithſtanding all the pains and Religious intentions of the Compilers of it) hath proved an offence, not only to many of the Godly at home; but alſo to the Reformed Churches abroad. For, not to ſpeak of urging the Reading of all the Prayers, which very greatly increa<g ref="char:EOLhyphen"/>ſed the burden of it; the many unprofitable and burdenſome Ceremonies, contained in it, have occaſioned much miſchief, as well by diſquieting the Conſciences of many godly Miniſters and people who could not<pb n="3" facs="tcp:51481:5"/>yield unto them, as by depriving them of the Ordinances of God, which they might not enjoy without conforming or Subſcri<g ref="char:EOLhyphen"/>bing to thoſe Ceremonies. Sundry good Chriſtians have been by means thereof, kept from the Lords Table, and divers able and faithfull Miniſters debarred from the exer<g ref="char:EOLhyphen"/>ciſe of their Miniſtery (to the endangering of many Thouſand Souls, in a time of ſuch ſcarcity of faithfull Paſtors) and ſpoiled of their livelyhood, to the undoing of them and their Families. Prelates and their Fa<g ref="char:EOLhyphen"/>ction have laboured to raiſe the Eſtimation of it to ſuch an height, as if there were no other VVorſhip, or way of VVorſhip of God amongſt us, but onely the Service-Book; to the great hinderance of the Prea<g ref="char:EOLhyphen"/>ching of the VVord, and (in ſome places, eſpecially of late) to the juſtling of it out, as unneceſſary; or (at beſt) as far inferior to the Reading of Common-Prayer, which<pb n="4" facs="tcp:51481:6"/>was made no better then an Idol by many Ignorant and Superſtitious People, vvho pleaſing themſelves in their preſence at that Service, and their Lip-labour in bearing a part in it, have thereby hardened themſelves in their ignorance and careleſneſſe of ſaving knowledge and true piety.</p>
+            <p>In the mean time Papiſts boaſted, that the Book was a compliance with them in a great part of their Service, and ſo were not a little confirmed in their Superſtition and Idolatry, expecting rather our return to them, than endeavouring the Reformation of themſelves: In which expectation they were of late very much incouraged, when, upon the pretended warrantableneſſe of im<g ref="char:EOLhyphen"/>poſing of the former Ceremonies, new ones were dayly obtruded upon the Church.</p>
+            <p>Adde hereunto (which was not foreſeen, but ſince hath come to paſſe) that the Lei<g ref="char:EOLhyphen"/>turgie hath been a great means, as on the
+<pb n="5" facs="tcp:51481:6"/>one hand to make and increaſe an idle and unedifying Miniſtery, which contented it ſelf with ſet Forms made to their hands by others, without putting forth themſelves to exerciſe the gift of Prayer, with which our Lord <hi>Jeſus Chriſt</hi> pleaſeth to furniſh all his Servants whom he calls to that office: So on the other ſide it hath been (and ever would be, if continued) a matter of endleſſe ſtrife and contention in the Church, and a ſnare both to many godly and faithfull Miniſters, who have been perſecuted and ſilenced up<g ref="char:EOLhyphen"/>on that occaſion, and to others of hopefull parts, many of which have been, and more ſtill would be, diverted from all thoughts of the Miniſtery to other ſtudies; eſpecially in theſe latter times, wherein God vouchſafeth to his people more and better means for the diſcovery of Error and Superſtition, and for attaining of knowledge in the myſteries of godlineſs, and gifts in Preaching and Prayer.</p>
+            <p>
+               <pb n="6" facs="tcp:51481:7"/>Upon theſe, and many the like weighty conſiderations, in reference to the whole Book in generall, and becauſe of divers par<g ref="char:EOLhyphen"/>ticulars contained in it; not from any love to Novelty, or intention to diſparage our firſt Reformers (of whom we are perſwaded that were they now alive, they would joyn with us in this work, and whom we ac<g ref="char:EOLhyphen"/>knowledge as Excellent Inſtruments raiſed by God to begin the purging and building of his Houſe, and deſire they may be had of us and Poſterity in everlaſting Remem<g ref="char:EOLhyphen"/>brance, with thankfulneſſe and honour;) but that we may in ſome meaſure anſwer the gracious Providence of God, which at this time calleth upon us for further Reforma<g ref="char:EOLhyphen"/>tion, and may ſatisfy our own Conſciences, and anſwer the expectation of other Refor<g ref="char:EOLhyphen"/>med Churches, and the deſires of many of the godly among our ſelves, and withall give ſome publique Teſtimony of our endeavors<pb n="7" facs="tcp:51481:7"/>for Uniformity in Divine Worſhip, which we have promiſed in our Solemn League and Covenant: VVe have, after earneſt and frequent calling upon the Name of God, and after much Conſultation, not with fleſh and blood, but with his holy VVord, reſolved to lay aſide the former Leiturgie, with the many Rites and Ceremonies for<g ref="char:EOLhyphen"/>merly uſed in the VVorſhip of God: And have agreed upon this following Directory for all the parts of Publique VVorſhip, at ordinary and extraordinary times.</p>
+            <p>VVherein our care hath been to hold forth ſuch things as are of Divine Inſtitution in every Ordinance; and other things we have endeavoured to ſet forth according to the Rules of Chriſtian Prudence, agreeable to the generall Rules of the VVord of God. Our meaning therein being onely that the generall heads, the ſenſe and ſcope of the Prayers and other parts of Publique VVor<g ref="char:EOLhyphen"/>ſhip<pb n="8" facs="tcp:51481:8"/>being known to all, there may be a con<g ref="char:EOLhyphen"/>ſent of all the Churches, in thoſe things that contain the ſubſtance of the Service and VVorſhip of God; And the Miniſters may be hereby directed in their Adminiſtrations to keep like ſoundneſſe in Doctrine and Prayer; and may, if need be, have ſome help and furniture: And yet ſo, as they become not hereby ſlothfull and negligent in ſtirring up the gifts of Chriſt in them: But, that each one, by meditation, by taking heed to him<g ref="char:EOLhyphen"/>ſelf and the Flock of God committed to him, and by wiſe obſerving the wayes of Divine Providence, may be carefull to furniſh his heart and tongue with further, or other ma<g ref="char:EOLhyphen"/>terials of Prayer and Exhortation, as ſhall be needfull upon all occaſions.</p>
+         </div>
+      </front>
+      <body>
+         <head>
+            <pb n="9" facs="tcp:51481:8"/>A DIRECTORY FOR Publique Prayer, Reading the Holy Scriptures, Singing of Pſalmes, Preaching of the Word, Adminiſtration of the Sacra<g ref="char:EOLhyphen"/>ments, and other parts of the Publique Worſhip of God, Ordinary, &amp; Extraordinary.</head>
+         <div type="section">
+            <head type="sub">Of the Aſſembling of the Congregation, and their Behaviour in the Publique Worſhip of God.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hen the Congregation is to meete for Publique Worſhip, the people (ha<g ref="char:EOLhyphen"/>ving before prepared their hearts thereunto) ought all to come, and joyne therein: not abſenting themſelves from the Publique<pb n="10" facs="tcp:51481:9"/>Ordinances, through negligence, or upon pretence of Private meetings.</p>
+            <p>Let all enter the Aſſembly, not irreve<g ref="char:EOLhyphen"/>rently, but in a grave and ſeemly manner, ta<g ref="char:EOLhyphen"/>king their ſeates or places without Adora<g ref="char:EOLhyphen"/>tion, or Bowing themſelves towards one place or other.</p>
+            <p>The Congregation being aſſembled; the Miniſter, after ſolemne calling on them to the worſhiping of the great name of God, is to begin with Prayer;</p>
+            <p>
+               <hi>In all Reverence and Humility ac<g ref="char:EOLhyphen"/>knowledging the incomprehenſible Great<g ref="char:EOLhyphen"/>neſſe and Majeſty of the Lord, (in whoſe preſence they doe then in a ſpeciall man<g ref="char:EOLhyphen"/>ner appeare) and their own vileneſſe and unworthineſſe to approach ſo neare him; with their utter inability of them<g ref="char:EOLhyphen"/>ſelves, to ſo great a Work: And hum<g ref="char:EOLhyphen"/>bly beſeeching him for Pardon, Aſſiſtance, and Acceptance in the whole Service then to bee performed; and for a Bleſ<g ref="char:EOLhyphen"/>ſing<pb n="11" facs="tcp:51481:9"/>on that particular portion of his Word then to bee read: and all, in the Name and Mediation of the Lord Je<g ref="char:EOLhyphen"/>ſus Christ.</hi>
+            </p>
+            <p>The Publique Worſhip being begun, the people are wholly to attend upon it; forbearing to Reade any thing, except what the Miniſter is then reading or citing; and abſtaining much more from all private whiſ<g ref="char:EOLhyphen"/>perings, conferences, ſalutations, or doing reverence to any perſons preſent, or com<g ref="char:EOLhyphen"/>ming in; as alſo from all gazing, ſleeping, and other undecent behaviour, which may di<g ref="char:EOLhyphen"/>ſturbe the Miniſter or people, or hinder themſelves or others in the ſervice of God.</p>
+            <p>If any through neceſſity be hindred from being preſent at the beginning, they ought not, when they come into the Congregati<g ref="char:EOLhyphen"/>on, to betake themſelves to their private Devotions, but reverently to compoſe them<g ref="char:EOLhyphen"/>ſelves to joyne with the Aſſembly, in that Ordinance of God which is then in hand.</p>
+         </div>
+         <div type="section">
+            <pb n="12" facs="tcp:51481:10"/>
+            <head>Of Publique Reading of the holy Scriptures.</head>
+            <p>
+               <seg rend="decorInit">R</seg>Eading of the Word in the Congrega<g ref="char:EOLhyphen"/>tion, being part of the publique Wor<g ref="char:EOLhyphen"/>ſhip of God, (wherin we acknowledge our dependence upon him, and ſubjection to him) and one Means ſanctified by him for the edifying of his People, is to bee perfor<g ref="char:EOLhyphen"/>med by the Paſtors and Teachers.</p>
+            <p>Howbeit, ſuch as intend the Miniſtery, may occaſionally both reade the Word, and exerciſe their gift in Preaching in the Con<g ref="char:EOLhyphen"/>gregation, if allowed by the Presbytery thereunto.</p>
+            <p>All the Canonicall Books of the Old and New Teſtament, (but none of thoſe which are commonly called Apocrypha) ſhall be publiquely read in the vulgar Tongue, out of the beſt allowed Tranſlation, diſtinctly, that all may heare and underſtand.</p>
+            <p>How large a portion ſhall be read at once, is left to the wiſdome of the Miniſter: But it is convenient that ordinarily one Chap<g ref="char:EOLhyphen"/>ter of each Teſtament bee read at every meeting; and ſometimes more, where the
+<pb n="13" facs="tcp:51481:10"/>Chapters be ſhort, or the coherence of mat<g ref="char:EOLhyphen"/>ter requireth it.</p>
+            <p>It is requiſite that all the Canonical books bee read over in order, that the people may be better acquainted with the whole Body of the Scriptures: And ordinarily, where the Reading in either Teſtament endeth on one Lords day, it is to begin the next.</p>
+            <p>Wee commend alſo the more frequent reading of ſuch Scriptures, as hee that readeth ſhall thinke beſt for edification of his Hearers; as the Book of Pſalmes, and ſuch like.</p>
+            <p>When the Miniſter, who readeth, ſhall judge it neceſſary to expound any part of what is read, let it not bee done untill the whole Chapter, or Pſalme bee ended: and regard is alwayes to be had unto the time, that neither Preaching or other Ordinance bee ſtraitned, or rendred tedious. Which Rule is to be obſerved in all other publique performances.</p>
+            <p>Beſide Publique Reading of the Holy Scriptures, every perſon that can reade, is to be exhorted to reade the Scriptures private<g ref="char:EOLhyphen"/>ly
+<pb n="14" facs="tcp:51481:11"/>(and all others that cannot reade, if not diſabled by age, or otherwiſe, are likewiſe to bee exhorted to learne to reade) and to have a Bible.</p>
+         </div>
+         <div type="section">
+            <head>Of Publike Prayer before the Sermon.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Fter Reading of the Word (and ſing<g ref="char:EOLhyphen"/>ing of the Pſalme) the Miniſter who is to Preach, is to endeavour to get his own, and his Hearers hearts to be rightly af<g ref="char:EOLhyphen"/>fected with their Sinnes, that they may all mourn in ſenſe thereof before the Lord, and hunger and thirſt after the grace of God in Ieſus Chriſt, by proceeding to a more full Confeſſion of Sinne with ſhame and holy confuſion of face; and to Call upon the Lord to this effect;</p>
+            <p>
+               <hi>To acknowledge our great ſinfulneſſe; Firſt, by reaſon of Originall ſin, which (beſide the guilt that makes us liable to everlaſting Damnation) is the ſeed of all<pb n="15" facs="tcp:51481:11"/>other ſinnes, hath depraved and poyſo<g ref="char:EOLhyphen"/>ned all the faculties and powers of Soule and Body, doth defile our best actions, and (were it not reſtrained, or our hearts renewed by Grace) would breake forth into innumerable tranſgreſſi<g ref="char:EOLhyphen"/>ons, and greateſt rebellions against the Lord, that ever were committed by the vilest of the ſons of Men. And, next, by reaſon of Actuall ſins, our own ſins, the ſins of Magiſtrates, of Miniſters, and of the whole Nation, unto which wee are many wayes acceſſory. Which ſins of ours receive many fearefull ag<g ref="char:EOLhyphen"/>gravations, wee having broken all the Commandements of the holy, just, and good Law of God, doing that which is forbidden, and leaving undone what is enjoyned; and that not onely out of Ig<g ref="char:EOLhyphen"/>norance, and Infirmity, but alſo more preſumptuouſly againſt the light of our<pb n="16" facs="tcp:51481:12"/>Minds, checks of our Conſciences, and motions of his own Holy Spirit to the contrary, ſo that we have no cloak for our ſins; Yea, not onely deſpiſing the riches of Gods goodneſſe, forbearance and long-ſuffering, but ſtanding out a<g ref="char:EOLhyphen"/>gainſt many invitations and offers of grace in the Goſpel, not endeavouring as wee ought to receive Chriſt into our hearts by Faith, or to walke worthy of him in our lives.</hi>
+            </p>
+            <p>
+               <hi>To bewaile our blindneſſe of minde, hardneſſe of heart, unbelief, impeniten<g ref="char:EOLhyphen"/>cy, ſecurity, lukewarmneſſe, barrenneſſe, our not endeavouring after mortificati<g ref="char:EOLhyphen"/>on and newneſſe of life; nor after the exerciſe of godlineſſe in the power there<g ref="char:EOLhyphen"/>of; and that the best of us have not ſo ſtedfaſtly walked with God, kept our garments ſo unſpotted, nor been ſo zea<g ref="char:EOLhyphen"/>lous of his glory, and the good of others,
+<pb n="17" facs="tcp:51481:12"/>as wee ought: And to mourn over ſuch other ſins as the Congregation is parti<g ref="char:EOLhyphen"/>cularly guilty of; notwithſtanding the manifold and great Mercies of our God, the Love of Christ, the Light of the Goſpel, and Reformation of Religion, our own purpoſes, promiſes, vows, ſo<g ref="char:EOLhyphen"/>lemn Covenant, and other ſpeciall obli<g ref="char:EOLhyphen"/>gations to the contrary.</hi>
+            </p>
+            <p>
+               <hi>To acknowledge and confeſſe, that, as wee are convinced of our guilt, ſo, out of a deep ſenſe thereof, wee judge our ſelves unworthy of the ſmallest be<g ref="char:EOLhyphen"/>nefits, most worthy of Gods fiercest wrath, and of all the Curſes of the Law and heavieſt Judgements inflicted upon the moſt rebellious Sinners; and that hee might moſt juſtly take his King<g ref="char:EOLhyphen"/>dome and Goſpel from us, plague us with all ſorts of ſpirituall and temporall judge<g ref="char:EOLhyphen"/>ments in this life, and after caſt us in<g ref="char:EOLhyphen"/>to
+<pb n="18" facs="tcp:51481:13"/>utter Darkneſſe, in the Lake that burneth with fire and brimſtone, where is weeping, and gnaſhing of teeth for evermore.</hi>
+            </p>
+            <p>
+               <hi>Notwithſtanding all which, To draw neare to the Throne of Grace, encou<g ref="char:EOLhyphen"/>raging our ſelves with hope of a graci<g ref="char:EOLhyphen"/>ous Anſwer of our Prayers, in the rich<g ref="char:EOLhyphen"/>es and all-ſufficiency of that onely one ob<g ref="char:EOLhyphen"/>lation, the ſatisfaction and interceſſion of the Lord Jeſus Chriſt at the right hand of his Father, and our Father; and, in confidence of the exceeding great and precious promiſes of mercy and grace in the new Covenant, through the ſame Mediator thereof, to deprecate the hea<g ref="char:EOLhyphen"/>vy wrath and curſe of God, which wee are not able to avoid, or beare; and humbly, and earneſtly to ſupplicate for mercy in the free and full remiſſion of all our ſins, and that onely for the bit<g ref="char:EOLhyphen"/>ter<pb n="19" facs="tcp:51481:13"/>ſufferings and pretious merits of that our onely Saviour Jeſus Chriſt.</hi>
+            </p>
+            <p>
+               <hi>That the Lord would vouchſafe to ſhed abroad his love in our hearts by the Holy Ghoſt; ſeale unto us by the ſame Spirit of Adoption, the full aſſu<g ref="char:EOLhyphen"/>rance of our Pardon and Reconciliati<g ref="char:EOLhyphen"/>on; comfort all that mourn in Zion, ſpeak peace to the wounded and troubled ſpi<g ref="char:EOLhyphen"/>rit, and bind up the broken hearted: And as for ſecure and preſumptuous ſin<g ref="char:EOLhyphen"/>ners, that he would open their eyes, con<g ref="char:EOLhyphen"/>vince their Conſciences, and turn them from darkneſſe unto light, and from the power of Satan unto God, that they alſo may receive forgiveneſſe of ſin, and an inheritance among them that are ſancti<g ref="char:EOLhyphen"/>fied by faith in Chriſt Jeſus.</hi>
+            </p>
+            <p>
+               <hi>With remiſſion of ſins through the blood of Chriſt, To pray for ſanctifica<g ref="char:EOLhyphen"/>tion by his Spirit; the Mortification of
+<pb n="20" facs="tcp:51481:14"/>ſinne dwelling in, and many times ty<g ref="char:EOLhyphen"/>rannizing over us, the quickening of our dead ſpirits with the life of God in Chriſt, grace to fit and inable us for all duties of converſation and callings to<g ref="char:EOLhyphen"/>wards God and Men, ſtrength againſt temptations, the ſanctified uſe of bleſ<g ref="char:EOLhyphen"/>ſings and croſſes, and perſeverance in Faith, and obedience unto the end.</hi>
+            </p>
+            <p>
+               <hi>To pray for the Propagation of the Goſpell and Kingdome of Chriſt to all Nations, for the converſion of the Jewes, the fulneſſe of the Gentiles, the fall of Antichriſt, and the haſtening of the ſecond comming of our Lord; For the deliverance of the diſtreſſed Church<g ref="char:EOLhyphen"/>es abroad, from the tyranny of the An<g ref="char:EOLhyphen"/>tichriſtian faction, and from the cruell oppreſsions and blaſphemies of the Turke: For the bleſsing of God up<g ref="char:EOLhyphen"/>on all the Reformed Churches, eſpe<g ref="char:EOLhyphen"/>cially<pb n="21" facs="tcp:51481:14"/>upon the Churches and Kingdomes of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> now more ſtrictly and religiouſly united in the ſolemne Nationall League and Covenant; and for our Plantations in the remote parts of the World: more particularly for that Church and King<g ref="char:EOLhyphen"/>dome whereof we are Members, that therein God would eſtabliſh Peace and Truth, the purity of all his Ordinances, and the power of Godlineſſe; prevent and remove hereſie, ſchiſme, prophane<g ref="char:EOLhyphen"/>neſse, ſuperſtition, ſecurity, and unfruit<g ref="char:EOLhyphen"/>fulneſſe under the meanes of Grace, heale all our rents and diviſions, and preſerve us from breach of our ſolemne Covenant.</hi>
+            </p>
+            <p>
+               <hi>To pray for all in Authority, eſpe<g ref="char:EOLhyphen"/>cially for the Kings Majeſty, that God would make him rich in bleſsings, both in his Perſon and Government;<pb n="22" facs="tcp:51481:15"/>eſtabliſh his Throne in Religion and Righteouſneſſe, ſave him from evill Counſell, and make him a bleſſed and glorious Inſtrument for the conſervation and propagation of the Goſpell, for the encouragement and protection of them that doe well, the terrour of all that doe evill, and the great good of the whole Church, and of all his Kingdomes; for the converſion of the Queen, the religi<g ref="char:EOLhyphen"/>ous education of the Prince, and the reſt of the Royall ſeed; For the com<g ref="char:EOLhyphen"/>forting of the afflicted Queen of Bohe<g ref="char:EOLhyphen"/>mia, ſiſter to our Soveraign, and for the reſtitution and eſtabliſhment of the illu<g ref="char:EOLhyphen"/>ſtrious Prince Charles, Elector Palatine of the Rhene, to all his Dominions and Dignities; For a bleſsing upon the High Court of Parliament, (when ſitting in any of theſe Kingdomes reſpectively) the Nobility, the ſubordinate Iudges and
+<pb n="23" facs="tcp:51481:15"/>Magiſtrates, the Gentry and all the Commonalty; For all Paſtors and Teach<g ref="char:EOLhyphen"/>ers, that God would fill them with his Spirit, make them exemplarily holy, ſo<g ref="char:EOLhyphen"/>ber, juſt, peaceable, and gratious in their lives; ſound, faithfull, and power<g ref="char:EOLhyphen"/>full in their Miniſtery and follow all their labours with abundance of ſucceſſe and bleſsing; and give unto all his peo<g ref="char:EOLhyphen"/>ple Paſtors according to his owne heart; For the <g ref="char:V">Ʋ</g>niverſities, and all Schooles and Religious ſeminaries of Church and Common-wealth, that they may flouriſh more and more in Learning and piety; For the particular City or Congregation, that God would powre out a bleſsing up<g ref="char:EOLhyphen"/>on the Miniſtery of the Word, Sacra<g ref="char:EOLhyphen"/>ments and Diſcipline, upon the Civill Government, and all the ſeverall Fa<g ref="char:EOLhyphen"/>milies and perſons therein; For mercy to the afflicted under any inward or out<g ref="char:EOLhyphen"/>ward<pb n="24" facs="tcp:51481:16"/>diſtreſſe; For ſeaſonable weather and fruitfull ſeaſons as the time may re<g ref="char:EOLhyphen"/>quire; For averting the Judgements, that wee either feele or feare, or are li<g ref="char:EOLhyphen"/>able unto, as famine, pestilence, the ſword, and ſuch like.</hi>
+            </p>
+            <p>
+               <hi>And, with confidence of his mercy to his whole Church, and the acceptance of our perſons, through the merits and me<g ref="char:EOLhyphen"/>diation of our great High Prieſt the Lord Jeſus, To profeſſe that it is the deſire of our ſoules to have fellowſhip with God in the reverent and conſcionable uſe of his holy Ordinances; and, to that pur<g ref="char:EOLhyphen"/>poſe to pray earnestly for his grace and ef<g ref="char:EOLhyphen"/>fectuall aſsiſtance to the ſanctification of his holy Sabbath, the Lords day, in all the duties thereof, publike and private, both to our ſelves, and to all other Congrega<g ref="char:EOLhyphen"/>tions of his people, according to the riches and excellency of the Goſpel this day cele<g ref="char:EOLhyphen"/>brated and enjoyed.</hi>
+            </p>
+            <p>
+               <pb n="25" facs="tcp:51481:16"/>
+               <hi>And, becauſe wee have been unpro<g ref="char:EOLhyphen"/>fitable hearers in times paſt, and now cannot of our ſelves receive, as we ſhould, the deep things of God, the myſteries of Jeſus Chriſt, which require a ſpiri<g ref="char:EOLhyphen"/>tuall diſcerning, To pray that the Lord who teacheth to profit, would graciouſly pleaſe to poure out the Spirit of Grace, together with the outward means there<g ref="char:EOLhyphen"/>of, cauſing us to attain ſuch a meaſure of the excellency of the knowledge of Christ Jeſus our Lord, and in him, of the things which belong to our peace, that wee may account all things but as droſſe in compariſon of him: And that wee, taſting the firſt fruits of the glo<g ref="char:EOLhyphen"/>ry that is to be revealed, may long for a more full and perfect communion with him, that where he is, we may be alſo, and enjoy the fulneſſe of thoſe joyes and pleaſures which are at his
+<pb n="26" facs="tcp:51481:17"/>right hand for evermore.</hi>
+            </p>
+            <p>
+               <hi>More particularly, that God would in ſpeciall manner furniſh his Servant (now called to diſpenſe the bread of life unto his houſhold) with wiſdome, fidelity, zeale, and utterance, that hee may divide the Word of God aright, to every one his portion, in evidence and demon<g ref="char:EOLhyphen"/>ſtration of the Spirit and power; and that the Lord would circumciſe the eares and hearts of the Hearers, to heare, love, and receive with meekneſſe the ingrafted Word, which is able to ſave their ſoules, make them as good ground to receive in the good ſeed of the Word, and ſtrengthen them againſt the temptations of Satan, the cares of the World, the hardneſſe of their owne hearts, and whatſoever elſe may hinder their profitable and ſa<g ref="char:EOLhyphen"/>ving hearing; that ſo Chriſt may be ſo for<g ref="char:EOLhyphen"/>med in them, and live in them, that all
+<pb n="27" facs="tcp:51481:17"/>their thoughts may bee brought into capti<g ref="char:EOLhyphen"/>vity to the obedience of Chriſt, and their hearts eſtabliſhed in every good word and work for ever.</hi>
+            </p>
+            <p>We judge this to be a convenient Order, in the ordinary Publique Prayers; yet ſo, as the Miniſter may deferre (as in prudence he ſhall think meet) ſome part of theſe Petiti<g ref="char:EOLhyphen"/>ons, till after his Sermon, or offer up to God ſome of the Thankſgivings, hereafter appointed, in his Prayer before his Sermon.</p>
+         </div>
+         <div type="section">
+            <head>Of the Preaching of the Word.</head>
+            <p>
+               <seg rend="decorInit">P</seg>Reaching of the Word, being the pow<g ref="char:EOLhyphen"/>er of God unto Salvation, and one of the greateſt and moſt excellent Works belonging to the Miniſtry of the Goſpell, ſhould bee ſo performed, that the Work<g ref="char:EOLhyphen"/>man need not been aſhamed, but may ſave himſelf, and thoſe that heare him.</p>
+            <p>It is preſuppoſed (according to the Rules for Ordination) that the Miniſter of Chriſt is<pb n="28" facs="tcp:51481:18"/>in ſome good meaſure gifted for ſo weighty a ſervice, by his skill in the Originall Lan<g ref="char:EOLhyphen"/>guages, and in ſuch Arts and Sciences as are handmaids unto Divinity, by his knowledge in the whole Body of Theology, but moſt of all in the holy Scriptures, having his ſen<g ref="char:EOLhyphen"/>ſes and heart exerciſed in them above the common ſort of Beleevers; and by the il<g ref="char:EOLhyphen"/>lumination of Gods Spirit, and other gifts of edification, which (together with read<g ref="char:EOLhyphen"/>ing and ſtudying of the Word) hee ought ſtill to ſeek by Prayer, and an humble heart, reſolving to admit and receive any truth not yet attained, when ever God ſhall make it known unto him. All which hee is to make uſe of, and improve, in his private prepara<g ref="char:EOLhyphen"/>tions, before hee deliver in publike what he hath provided.</p>
+            <p>Ordinarily, the ſubject of his Sermon is to be ſome Text of Scripture, holding forth ſome principle or head of Religion; or ſui<g ref="char:EOLhyphen"/>table to ſome ſpeciall occaſion emergent; or hee may goe on in ſome Chapter, Pſalme, or Booke of the holy Scripture, as hee ſhall ſee fit.</p>
+            <p>
+               <pb n="29" facs="tcp:51481:18"/>Let the Introduction to his Text be brief and perſpicuous, drawn from the Text it ſelf, or context, or ſome parallel place, or generall ſentence of Scripture.</p>
+            <p>If the Text be long (as in Hiſtories and Parables it ſometimes muſt be) let him give a briefe ſumme of it; if ſhort, a Paraphraſe thereof, if need be: In both, looking dili<g ref="char:EOLhyphen"/>gently to the ſcope of the Text, and poin<g ref="char:EOLhyphen"/>ting at the chief heads and grounds of Do<g ref="char:EOLhyphen"/>ctrine, which he is to raiſe from it.</p>
+            <p>In Analyſing and dividing his Text, hee is to regard more the order of matter, then of words; and neither to burden the me<g ref="char:EOLhyphen"/>mory of the hearers in the beginning, with too many members of Diviſion, nor to trouble their minds with obſcure termes of Art.</p>
+            <p>In raiſing Doctrines from the Text, his care ought to bee, Firſt, that the matter be the truth of God. Secondly, that it be a truth contained in, or grounded on that Text, that the hearers may diſcern how God tech<g ref="char:EOLhyphen"/>eth it from thence. Thirdly, that he chief<g ref="char:EOLhyphen"/>ly inſiſt upon thoſe Doctrines which are<pb n="30" facs="tcp:51481:19"/>principally intended, and make moſt for the edification of the hearers.</p>
+            <p>The Doctrine is to be expreſſed in plaine termes; or if any thing in it need explicati<g ref="char:EOLhyphen"/>on, is to bee opened, and the conſequence alſo from the Text cleared. The parallel places of Scripture confirming the Doctrine are rather to bee plaine and pertinent, then many, and (if need bee) ſomewhat inſiſted upon, and applyed to the purpoſe in hand.</p>
+            <p>The Arguments or Reaſons are to bee ſolid; and, as much as may bee, convincing. The illuſtrations of what kind ſoever, ought to bee full of light, and ſuch as may convey the truth into the Hearers heart with ſpiri<g ref="char:EOLhyphen"/>tuall delight.</p>
+            <p>If any Doubt, obvious from Scripture, Reaſon, or Prejudice of the Hearers, ſeem to ariſe, it is very requiſite to remove it, by reconciling the ſeeming differences, anſwe<g ref="char:EOLhyphen"/>ring the reaſons, and diſcovering and taking away the cauſes of prejudice and miſtake. Otherwiſe, it is not fit to detain the hearers with propounding or anſwering vaine or
+<pb n="31" facs="tcp:51481:19"/>wicked Cavils, which as they are endleſſe, ſo the propounding and anſwering of them doth more hinder then promote edifica<g ref="char:EOLhyphen"/>tion.</p>
+            <p>Hee is not to reſt in generall Doctrine, although never ſo much cleared and confir<g ref="char:EOLhyphen"/>med, but to bring it home to ſpeciall Uſe, by application to his hearers: Which albeit it prove a worke of great difficulty to him<g ref="char:EOLhyphen"/>ſelfe, requiring much prudence, zeale, and meditation, and to the naturall and corrupt man will bee very unpleaſant; yet hee is to endeavour to perform it in ſuch a manner that his Auditors may feele the Word of God to bee quick and powerfull, and a diſ<g ref="char:EOLhyphen"/>cerner of the thoughts and intents of the heart; and that if any unbeleever or igno<g ref="char:EOLhyphen"/>rant perſon bee preſent, hee may have the ſecrets of his heart made manifeſt, and give glory to God.</p>
+            <p>In the Uſe of Inſtruction or information in the knowledge of ſome truth, which is a conſequence from his Doctrine, he may (when convenient) confirm it by a few firm Arguments from the Text in hand, and o<g ref="char:EOLhyphen"/>ther<pb n="32" facs="tcp:51481:20"/>places of Scripture, or from the nature of that Common place in Divinity, whereof that truth is a branch.</p>
+            <p>In Confutation of falſe Doctrines, he is neither to raiſe an old Hereſie from the grave, nor to mention a blaſphemous opini<g ref="char:EOLhyphen"/>on unneceſſarily: but if the people be indan<g ref="char:EOLhyphen"/>ger of an Errour, he is to confute it ſoundly, and endeavour to ſatisfie their judgements and conſciences againſt all objections.</p>
+            <p>In Exhorting to Duties, he is, as he ſeeth cauſe, to teach alſo the meanes that helpe to the performance of them.</p>
+            <p>In Dehortation, Reprehenſion, and pub<g ref="char:EOLhyphen"/>lique Admonition (which require ſpeciall wiſedome) let him, as there ſhall be cauſe, not only diſcover the nature and greatneſſe of the ſin, with the miſery attending it, but alſo ſhew the danger his hearers are in to be overtaken and ſurprized by it, toge<g ref="char:EOLhyphen"/>ther with the Remedies and beſt way to a<g ref="char:EOLhyphen"/>voyd it.</p>
+            <p>In applying Comfort, whether generall a<g ref="char:EOLhyphen"/>gainſt all tentations, or particular againſt ſome ſpeciall troubles or terrours, he is care<g ref="char:EOLhyphen"/>fully
+<pb n="33" facs="tcp:51481:20"/>to anſwer ſuch objections, as a troubled heart and afflicted ſpirit may ſuggeſt to the con<g ref="char:EOLhyphen"/>trary.</p>
+            <p>It is alſo ſometimes requiſite to give ſome Notes of tryall (which is very profitable, eſpe<g ref="char:EOLhyphen"/>cially when performed by able and experienced Miniſters, with circumſpection and prudence, and the Signes cleerely grounded on the holy Scripture) whereby the Hearers may be able to examine themſelves, whether they have attai<g ref="char:EOLhyphen"/>ned thoſe Graces, and performed thoſe duties to which he Exhorteth, or be guilty of the ſin, Reprehended, and in danger of the Judge<g ref="char:EOLhyphen"/>ments Threatned, or are ſuch to whom the Con<g ref="char:EOLhyphen"/>ſolations propounded doe belong; that accor<g ref="char:EOLhyphen"/>dingly they may be quickned and excited to Duty, humbled for their Wants and Sins, affe<g ref="char:EOLhyphen"/>cted with their Danger, and ſtrengthned with Comfort, as their condition upon examination ſhall require.</p>
+            <p>And, as he needeth not alwayes to proſecute every Doctrine which lies in his Text, ſo is he wiſely to make choice of ſuch Vſes, as, by his re<g ref="char:EOLhyphen"/>ſidence and converſing with his flock, he findeth moſt needfull and ſeaſonable: and, amongſt<pb n="34" facs="tcp:51481:21"/>theſe, ſuch as may moſt draw their ſoules to Chriſt, the fountaine of light, holineſſe and comfort.</p>
+            <p>This Method is not preſcribed as neceſſary for every man, or upon every Text; but only re<g ref="char:EOLhyphen"/>commended, as being found by experience to be very much bleſſed of God, and very helpfull for the peoples underſtandings and memories.</p>
+            <p>But the Servant of Chriſt, what ever his Me<g ref="char:EOLhyphen"/>thod be, is to performe his whole Miniſtery;</p>
+            <p n="1">1. Painfully, not doing the work of the Lord negligently.</p>
+            <p n="2">2. Plainly, that the meaneſt may underſtand, delivering the truth, not in the entiſing words of mans wiſdome, but in demonſtration of the Spi<g ref="char:EOLhyphen"/>rit and of power, leaſt the Croſſe of Chriſt ſhould be made of none effect: abſtaining alſo from an unprofitable uſe of unknowne Tongues, ſtrange phraſes, and cadences of founds and words, ſparingly citing ſentences of Eccleſiaſti<g ref="char:EOLhyphen"/>call, or other humane Writers, ancient or mo<g ref="char:EOLhyphen"/>derne, be they never ſo elegant.</p>
+            <p n="3">3. Faithfully, looking at the honour of Chriſt, the converſion, edification and ſalvation of the people, not at his own gaine or glory: keeping<pb n="35" facs="tcp:51481:21"/>nothing back which may promote thoſe holy ends, giving to every one his own portion, and bearing indifferent reſpect unto all, without neg<g ref="char:EOLhyphen"/>lecting the meaneſt, or ſparing the greateſt in their ſins.</p>
+            <p n="4">4. Wiſely, framing all his Doctrines, Exhor<g ref="char:EOLhyphen"/>tations, and eſpecially his Reproofs, in ſuch a manner as may be moſt likely to prevaile, ſhew<g ref="char:EOLhyphen"/>ing all due reſpect to each mans perſon and place, and not mixing his own paſſion or bitter<g ref="char:EOLhyphen"/>neſſe.</p>
+            <p n="5">5. Gravely, as becometh the Word of God, ſhunning all ſuch geſture, voice and expreſſions as may occaſion the corruptions of men to deſ<g ref="char:EOLhyphen"/>piſe him and his Miniſtry.</p>
+            <p n="6">6. With loving affection, that the people may ſee all coming from his godly zeale, and hearty deſire to doe them good. And</p>
+            <p n="7">7. As taught of God, and perſwaded in his own heart, that all that he teacheth, is the truth of Chriſt; and walking before his flock as an example to them in it; earneſtly, both in private and publique, recommending his labours to the bleſſing of God, and watchfully looking to himſelfe and the flock whereof the Lord hath<pb n="36" facs="tcp:51481:22"/>made him overſeer, So ſhall the Doctrine of truth be preſerved uncorrupt, many ſoules con<g ref="char:EOLhyphen"/>verted and built up, and himſelfe receive mani<g ref="char:EOLhyphen"/>fold comforts of his labours, even in this life, and afterward the Crown of Glory laid up for him in the world to come.</p>
+            <p>Where there are more Miniſters in a Con<g ref="char:EOLhyphen"/>gregation than one, and they of different guifts, each may more eſpecially apply himſelfe to Do<g ref="char:EOLhyphen"/>ctrine or Exhortation, according to the guift wherein he moſt excelleth, and as they ſhall agree between themſelves.</p>
+         </div>
+         <div type="section">
+            <head>Of Prayer after the Sermon.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Sermon being ended, the Miniſter is;</p>
+            <p>
+               <hi>To give thanks for the great Love of God in ſending his Sonne Jeſus Chriſt unto us; For the communication of his Holy Spirit; For the light and liberty of the glorious Goſpell, and the rich and hea<g ref="char:EOLhyphen"/>venly Bleſsings revealed therein; as name<g ref="char:EOLhyphen"/>ly,<pb n="37" facs="tcp:51481:22"/>Election, Vocation, Adoption, Juſtifica<g ref="char:EOLhyphen"/>tion, Sanctification, and hope of Glory; For the admirable goodneſſe of God in freeing the Land from Antichriſtian Darkneſſe and Tyranny, and for all other Nationall Deliverances; For the Reformation of Religion; For the Covenant; and for many temporall bleſsings.</hi>
+            </p>
+            <p>
+               <hi>To pray for the continuance of the Go<g ref="char:EOLhyphen"/>ſpell, and all Ordinances thereof, in their purity, power and liberty. To turne the chiefe and moſt uſefull heads of the Sermon into ſome few Petitions; and to pray that it may abide in the heart and bring forth fruit.</hi>
+            </p>
+            <p>
+               <hi>To pray for preparation for Death, and Judgement, and a watching for the coming of our Lord Jeſus Chriſt. To intreat of God the forgiveneſſe of the iniquities of our holy things, and the acceptation of our ſpi<g ref="char:EOLhyphen"/>rituall <pb n="38" facs="tcp:51481:23"/>ſacrifice, through the merit and me<g ref="char:EOLhyphen"/>diation of our great High-Prieſt and Sa<g ref="char:EOLhyphen"/>viour the Lord Jeſus Chriſt.</hi>
+            </p>
+            <p>And becauſe the Prayer which Chriſt taught his Diſciples, is not only a Pattern of Prayer, but it ſelfe a moſt comprehenſive Prayer, we re<g ref="char:EOLhyphen"/>commend it alſo to be uſed in the Prayers of the Church.</p>
+            <p>And whereas, at the Adminiſtration of the Sa<g ref="char:EOLhyphen"/>craments, the holding Publique Faſts and dayes of Thankſgiving, and other ſpeciall occaſions, which may afford matter of ſpeciall Petitions and Thankſgivings; It is requiſite to expreſſe ſomewhat in our publike Prayers (as at this time, it is our duty to pray for a bleſſing upon the Aſ<g ref="char:EOLhyphen"/>ſembly of Divines, the Armies by Sea and Land, for the defence of the King, Parliament and Kingdome,) Every Miniſter is herein to apply himſelfe in his Prayer before, or after his Sermon to thoſe occaſions; but for the manner, he is left to his liberty as God ſhall direct and inable him, in piety and wiſdome to diſcharge his duty.</p>
+            <p>The Prayer ended, let a Pſalme be ſung, if with
+<pb n="39" facs="tcp:51481:23"/>conveniency it may be done. After which (un<g ref="char:EOLhyphen"/>leſſe ſome other Ordinance of Chriſt that con<g ref="char:EOLhyphen"/>cerneth the Congregation at that time be to follow) let the Miniſter diſmiſſe the Congre<g ref="char:EOLhyphen"/>gation with a ſolemne Bleſſing.</p>
+         </div>
+         <div type="section">
+            <head>THE ADMINISTRATION OF THE SACRAMENTS.</head>
+            <head>And firſt, Of BAPTISME.</head>
+            <p>
+               <seg rend="decorInit">B</seg>APTISME, As it is not unneceſſa<g ref="char:EOLhyphen"/>rily to be delayed, ſo, is it not to be adminiſtred in any caſe by any private perſon, but by a Miniſter of Chriſt, called to be the Steward of the My<g ref="char:EOLhyphen"/>ſteries of God.</p>
+            <p>Nor is it to be adminiſtred in private places, or privately, but in the place of Publique Wor<g ref="char:EOLhyphen"/>ſhip, and in the face of the Congregation, where
+<pb n="38" facs="tcp:51481:24"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="39" facs="tcp:51481:24"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="40" facs="tcp:51481:25"/>the people may moſt conveniently ſee and heare; and not in the places where Fonts in the time of Popery were unfitly and ſuperſtitiouſly placed.</p>
+            <p>The Child to be Baptized, after notice gi<g ref="char:EOLhyphen"/>ven to the Miniſter the day before, is to be pre<g ref="char:EOLhyphen"/>ſented by the Father, or (in caſe of his neceſſary abſence) by ſome Chriſtian friend in his place, profeſſing his earneſt deſire that the Child may be Baptiſed.</p>
+            <p>Before Baptiſme, the Miniſter is to uſe ſome words of Inſtruction, touching the Inſtitution, Nature, Uſe and ends of this Sacrament: ſhew<g ref="char:EOLhyphen"/>ing,</p>
+            <p>
+               <hi>That it is Instituted by our Lord Jeſus Chriſt: That it is a Seale of the Cove<g ref="char:EOLhyphen"/>nant of Grace, of our Ingrafting into Chriſt, and of our <g ref="char:V">Ʋ</g>nion with him, of Re<g ref="char:EOLhyphen"/>miſsion of Sins, Regeneration, Adoption, and Life eternall: That the Water in Baptiſme, repreſenteth and ſignifieth, both the bloud of Chriſt which taketh away all Guilt of Sinne, Originall and Actuall; and<pb n="41" facs="tcp:51481:25"/>the ſanctifying virtue of the Spirit of Chriſt againſt the Dominion of Sin, and the Corruption of our ſinfull Nature: That Baptizing, or ſprinckling &amp; waſhing with water ſignifieth the cleanſing from ſin by the Bloud, and for the Merit of Chriſt, to<g ref="char:EOLhyphen"/>gether with the Mortification of ſin, and riſing from ſin to Newneſſe of life, by virtue of the Death and Reſurrection of Christ: That the Promiſe is made to Beleevers and their ſeed, and that the ſeed and posterity of the faithfull, born within the Church, have by their birth, in<g ref="char:EOLhyphen"/>tereſt in the Covenant, and right to the Seale of it, and to the outward Priviled<g ref="char:EOLhyphen"/>ges of the Church, under the Goſpell, no leſſe then the Children of Abraham in the time of the Old Teſtament; the Covenant of Grace, for ſubſtance, being the ſame; and the Grace of God and the conſolation
+<pb n="42" facs="tcp:51481:26"/>of Beleevers, more plentifull then before: That the Sonne of God admitted litle children into his preſence, imbracing and bleſsing them, ſaying, For of ſuch is the Kingdome of God: That children by Baptiſme are ſolemnly received into the boſome of the viſible Church, diſtinguiſhed from the world, and them that are with<g ref="char:EOLhyphen"/>out, and united with Beleevers; and that all who are baptized in the Name of Chriſt, doe renounce, and by their Bap<g ref="char:EOLhyphen"/>tiſme are bound to fight againſt the Devill, the World and the Fleſh: That they are Chriſtians, and foederally holy before Bap<g ref="char:EOLhyphen"/>tiſme, and therefore are they Baptized: That the inward Grace and virtue of Baptiſme is not tyed to that very moment of time wherein it is adminiſtred, and that the fruit and power thereof reacheth to the whole courſe of our life; and that outward<pb n="43" facs="tcp:51481:26"/>Baptiſme is not ſo neceſſary, that through the want thereof the Infant is in danger of Damnation, or the Parents guilty, if they doe not contemne or neglect the Ordinance of Christ when and where it may be had.</hi>
+            </p>
+            <p>In theſe or the like Inſtructions, the Miniſter is to uſe his own liberty, and godly wiſdome, as the Ignorance or Errours in the Doctrine of Baptiſme, and the Edification of the people ſhall require.</p>
+            <p>He is alſo to admoniſh all that are preſent;</p>
+            <p>
+               <hi>To looke back to their Baptiſme; to re<g ref="char:EOLhyphen"/>pent of their ſins againſt their Covenant with God; to ſtirre up their faith; to im<g ref="char:EOLhyphen"/>proove and make the rigbt uſe of their Baptiſme; and of the Covenant ſealed thereby betwixt God and their ſoules.</hi>
+            </p>
+            <p>He is to exhort the Parent;</p>
+            <p>
+               <hi>To conſider the great mercy of God to him and his child; To bring up the child in<pb n="44" facs="tcp:51481:27"/>the knowledge of the grounds of the Chri<g ref="char:EOLhyphen"/>ſtian Religion, and in the nurture and ad<g ref="char:EOLhyphen"/>monition of the Lord: and to let him know the danger of Gods wrath to himſelfe and child, if he be negligent. Requiring his ſo<g ref="char:EOLhyphen"/>lemne promiſe for the performance of his duty.</hi>
+            </p>
+            <p>This being done, Prayer is alſo to be joyned with the word of Inſtitution, for ſanctifying the water to this ſpirituall uſe, and the Miniſter is to pray to this or the like effect.</p>
+            <p>
+               <hi>That the Lord who hath not left us as ſtrangers without the Covenant of Pro<g ref="char:EOLhyphen"/>miſe, but called us to the priviledges of his Ordinances, would graciouſly vouchſafe to ſanctifie and bleſſe his owne Ordinance of Baptiſme at this time: That he would joyne the inward Baptiſme of his Spirit with the outward Baptiſme of water; make this Baptiſme to the Infant a Seale of<pb n="45" facs="tcp:51481:27"/>Adoption, Remiſsion of Sin, Regenera<g ref="char:EOLhyphen"/>tion, and Eternall Life, and of all other Promiſes of the Covenant of Grace: That the Child may be planted into the likeneſſe of the Death and Reſurrection of Chriſt; and that the body of ſin being deſtroyed in him, he may ſerve God in newneſſe of life all his dayes.</hi>
+            </p>
+            <p>Then the Miniſter is to demand the Name of the Child, which being told him, he is to ſay (cal<g ref="char:EOLhyphen"/>ling the Child by his Name)</p>
+            <p>
+               <hi>I Baptiſe thee in the Name of the Fa<g ref="char:EOLhyphen"/>ther, of the Son, and of the Holy Ghoſt.</hi>
+            </p>
+            <p>As he pronounceth theſe words, he is to Bap<g ref="char:EOLhyphen"/>tize the Child with water: which, for the man<g ref="char:EOLhyphen"/>ner of doing it, is not only lawfull, but ſufficient and moſt expedient to be, by powring or ſprinck<g ref="char:EOLhyphen"/>ling of the water on the face of the Child, with<g ref="char:EOLhyphen"/>out adding any other Ceremony.</p>
+            <p>This done, he is to give thanks and pray, to this or the like purpoſe;</p>
+            <p>
+               <pb n="46" facs="tcp:51481:28"/>
+               <hi>Acknowledging with all thankeful<g ref="char:EOLhyphen"/>neſſe, that the Lord is true and faithfull in keeping Covenant and Mercy; That hee is good and gracious, not onely in that hee numbreth us among his Saints, but is pleaſed alſo to beſtow upon our chil<g ref="char:EOLhyphen"/>dren this ſingular token and badge of his love in Christ: That in his truth and ſpeciall providence, hee daily bringeth ſome into the boſome of his Church, to be partakers of his ineſtimable be<g ref="char:EOLhyphen"/>nefits, purchaſed by the blood of his dear Son, for the continuance and in<g ref="char:EOLhyphen"/>creaſe of his Church.</hi>
+            </p>
+            <p>
+               <hi>And praying, That the Lord would ſtill continue, and daily confirm more and more this his unſpeakable favour: That he would receive the Infant now bapti<g ref="char:EOLhyphen"/>zed, and ſolemnly entred into the houſe<g ref="char:EOLhyphen"/>hold of Faith, into his Fatherly tuition<pb n="47" facs="tcp:51481:28"/>and defence, and remember him with the favour that he ſheweth to his people; That if he ſhall be taken out of this life in his Infancy, the Lord, who is rich in mercy, would be pleaſed to receive him up into glory; and if he live, and attain the years of diſcretion, that the Lord would ſo teach him by his word and ſpirit, and make his Baptiſme effectuall to him, and ſo uphold him by his Divine power and grace, that by faith he may prevail againſt the devil, the world, and the fleſh, till in the end he obtain a full and finall victo<g ref="char:EOLhyphen"/>ry, and ſo be kept by the power of God through faith unto ſalvation, through Jeſus Christ our Lord.</hi>
+            </p>
+         </div>
+         <div type="section">
+            <pb n="48" facs="tcp:51481:29"/>
+            <head>¶ Of the celebration of the Communion, or Sacrament of the LORDS Supper.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Communion, or Supper of the Lord is frequently to be celebrated: but how often, may be conſidered and deter<g ref="char:EOLhyphen"/>mined by the Miniſters and other Church-Governours of each Con<g ref="char:EOLhyphen"/>gregation, as they ſhall finde moſt conveni<g ref="char:EOLhyphen"/>ent for the comfort and edification of the people committed to their charge. And when it ſhall be adminiſtred, we judge it convenient to be done after the morning Sermon.</p>
+            <p>The Ignorant and the Scandalous are not fit to receive this Sacrament of the Lords Supper.</p>
+            <p>Where this Sacrament cannot with con<g ref="char:EOLhyphen"/>veniency be frequently adminiſtred, it is re<g ref="char:EOLhyphen"/>quiſite that publike warning be given the Sabbath day before the adminiſtration<pb n="49" facs="tcp:51481:29"/>thereof: and that either then, or on ſome day of that weeke, ſomething concerning that Ordinance, and the due preparation there<g ref="char:EOLhyphen"/>unto, and participation thereof be taught, that by the diligent uſe of all meanes ſancti<g ref="char:EOLhyphen"/>fied of God to that end, both in publique and private, all may come better prepared to that heavenly Feaſt.</p>
+            <p>When the day is come for adminiſtration, the Miniſter having ended his Sermon and Prayer, ſhall make a ſhort Exhortation,</p>
+            <p>
+               <hi>Expreſsing the ineſtimable benefit we have by this Sacrament; together with the ends and uſe thereof: ſetting forth the great neceſsity of having our comforts and ſtrength renewed thereby in this our pil<g ref="char:EOLhyphen"/>grimage and warfare: How neceſſary it is that we come unto it with Knowledge, Faith, Repentance, Love, and with hun<g ref="char:EOLhyphen"/>gring and thirſting ſouls after Chriſt and his benefits: How great the danger, to eat and drink unworthily.</hi>
+            </p>
+            <p>
+               <pb n="50" facs="tcp:51481:30"/>
+               <hi>Next, he is, in the Name of Chriſt, on the one part, to warn all ſuch as are Ignorant, Scandalous, Profane, or that live in any ſin or offence againſt their knowledge or conſcience, that they pre<g ref="char:EOLhyphen"/>ſume not to come to that holy Table, ſhew<g ref="char:EOLhyphen"/>ing them, That he that eateth and drink<g ref="char:EOLhyphen"/>eth unworthily, eateth and drinketh judgement unto himſelf: And on the other part, he is in eſpeciall manner to in<g ref="char:EOLhyphen"/>vite and encourage all that labour under the ſenſe of the burden of their ſins, and fear of wrath, and deſire to reach out unto a greater progreſſe in Grace then yet they can attain unto, to come to the Lords Table; aſſuring them, in the ſame Name, of eaſe, refreſhing and ſtrength to their weak and wearied ſouls.</hi>
+            </p>
+            <p>After this Exhortation, Warning, and Invitation, the Table being before decent<g ref="char:EOLhyphen"/>ly covered, and ſo conveniently placed, that<pb n="51" facs="tcp:51481:30"/>the Communicants may orderly ſit about it, or at it, The Miniſter is to begin the action with ſanctifying and bleſſing the elements of Bread and Wine ſet before him (the Bread in comely and convenient veſſels, ſo prepared, that being broken by him, and given, it may be diſtributed amongſt the Communicants: The Wine alſo in large Cups;) having firſt in a few words ſhewed, That thoſe elements, otherwiſe common, are now ſet apart and ſan<g ref="char:EOLhyphen"/>ctified to this holy uſe, by the word of Inſtitu<g ref="char:EOLhyphen"/>tion and Prayer.</p>
+            <p>Let the words of Inſtitution be read out of the Evangeliſts, or out of the firſt Epiſtle of the Apoſtle <hi>Paul</hi> to the Corinthians. Chap. 11. verſe 23. <hi>I have received of the Lord, &amp;c.</hi> to the 27. verſe, which the Miniſter may, when he ſeeth requiſite, explaine and ap<g ref="char:EOLhyphen"/>ply.</p>
+            <p>Let the Prayer, Thankſgiving, or Bleſſing of the Bread and Wine, be to this effect;</p>
+            <p>
+               <hi>WIth humble and hearty acknow<g ref="char:EOLhyphen"/>ledgement of the greatneſſe of our miſery, from which neither man nor An<g ref="char:EOLhyphen"/>gel <pb n="52" facs="tcp:51481:31"/>was able to deliver us, and of our great unworthineſſe of the leaſt of all Gods mer<g ref="char:EOLhyphen"/>cies; To give thanks to God for all his benefits, and eſpecially for that great be<g ref="char:EOLhyphen"/>nefit of our Redemption, the love of God the Father, the ſufferings and merits of the Lord Jeſus Chriſt the Son of God, by which we are delivered; and for all means of Grace, the Word and Sacraments, and for this Sacrament in particular, by which Chriſt and all his benefits are applied and ſealed up unto us, which, notwithſtanding the deniall of them unto others, are in great mercy continued unto us, after ſo much and long abuſe of them all.</hi>
+            </p>
+            <p>
+               <hi>To profeſſe that there is no other name under Heaven, by which we can be ſaved, but the Name of Jeſus Chriſt, by whom alone we receive liberty and life, have acceſſe to the throne of Grace, are admit<g ref="char:EOLhyphen"/>ted <pb n="53" facs="tcp:51481:31"/>to eat and drink at his own Table, and are ſealed up by his Spirit to an aſſurance of happineſſe and everlaſting life.</hi>
+            </p>
+            <p>
+               <hi>Earneſtly to pray to God, the Father of all mercies, and God of all conſolation, to vouchſafe his gracious preſence, and the effectuall working of his Spirit in us, and ſo to ſanctifie theſe Elements both of Bread and Wine, and to bleſſe his own Ordinance, that we may receive by Faith the Body and Blood of Jeſus Chriſt cruci<g ref="char:EOLhyphen"/>fied for us, and ſo to feed upon him, that he may be one with us, and we with him, that he may live in us, and we in him, and to him, who hath loved us, and given himſelf for us.</hi>
+            </p>
+            <p>All which he is to endeavour to performe with ſuitable affections anſwerable to ſuch an holy Action, and to ſtir up the like in the people.</p>
+            <p>The Elements being now ſanctified by<pb n="54" facs="tcp:51481:32"/>the Word and Prayer, The Miniſter, being at the Table, is to take the Bread in his hand, and ſay, in theſe expreſſions (or other the like, uſed by Chriſt, or his Apoſtle upon this occaſion:)</p>
+            <p>
+               <hi>According to the holy Inſtitution, com<g ref="char:EOLhyphen"/>mand, and example of our bleſſed Saviour Jeſus Chriſt, I take this Bread, and ha<g ref="char:EOLhyphen"/>ving given thanks, I break it, and give it unto you</hi> (There the Miniſter, who is alſo himſelfe to communicate, is to breake the Bread, and give it to the Communicants:) <hi>Take yee, eat yee; This is the Body of Chriſt which is broken for you, Do this in remembrance of him.</hi>
+            </p>
+            <p>In like manner the Miniſter is to take the Cup, and ſay, in theſe expreſſions (or o<g ref="char:EOLhyphen"/>ther the like, uſed by Chriſt, or the Apoſtle upon the ſame occaſion;)</p>
+            <p>
+               <hi>According to the Inſtitution, com<g ref="char:EOLhyphen"/>mand, and example of our Lord Jeſus Chriſt, I take this Cup, and give it unto you</hi>
+               <pb n="55" facs="tcp:51481:32"/>(Here he giveth it to the Communicants,) <hi>This Cup is the new Teſtament in the Blood of Chriſt, which is ſhed for the re<g ref="char:EOLhyphen"/>miſsion of the ſins of many; Drink ye all of it.</hi>
+            </p>
+            <p>After all have communicated, the Miniſter may, in a few words, put them in mind</p>
+            <p>
+               <hi>Of the grace of God, in Jeſus Chriſt held forth in this Sacrament, and ex<g ref="char:EOLhyphen"/>hort them to walk worthy of it.</hi>
+            </p>
+            <p>The Miniſter is to give ſolemn thanks to God,</p>
+            <p>
+               <hi>For his rich mercy, and invaluable goodneſſe vouchſafed to them in that Sa<g ref="char:EOLhyphen"/>crament, and to entreat for pardon for the defects of the whole ſervice, and for the gracious aſsiſtance of his good Spirit, whereby they may be enabled to walk in the ſtrength of that Grace, as becometh thoſe who have received ſo great pledges of ſalvation.</hi>
+            </p>
+            <p>The Collection for the poore is ſo to be<pb n="56" facs="tcp:51481:33"/>ordered, that no part of the publique worſhip be thereby hindred.</p>
+         </div>
+         <div type="section">
+            <head>Of the Sanctification of the Lords Day.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Lords day ought to be ſo remem<g ref="char:EOLhyphen"/>bred beforehand, as that all world<g ref="char:EOLhyphen"/>ly buſineſſe of our ordinary Cal<g ref="char:EOLhyphen"/>lings may be ſo ordered, and ſo timely and ſeaſonably laid aſide, as they may not be impediments to the due ſanctifying of the Day when it comes.</p>
+            <p>The whole Day is to be celebrated as holy to the Lord, both in publique and private, as being the Chriſtian Sabbath. To which end it is requiſite, that there be a holy ceſſation, or reſting all the Day, from all unneceſſary la<g ref="char:EOLhyphen"/>bours, and an abſtaining, not onely from all ſports and paſtimes, but alſo from all worldly words and thoughts.</p>
+            <p>That the Diet on that Day be ſo ordered, as that neither ſervants be unneceſſarily detained from the publique worſhip of God, nor any other perſons hindred from the ſanctifying that Day.</p>
+            <p>
+               <pb n="57" facs="tcp:51481:33"/>That there be private preparation of every perſon and family, by prayer for themſelves, and for Gods aſsiſtance of the Miniſter, and for a bleſſing upon his Miniſtry, and by ſuch other holy exerciſes, as may further diſpoſe them to a more comfortable communion with God in his publique Ordinances.</p>
+            <p>That al the people meet ſo timely for publique Worſhip, that the whole Congregation may be preſent at the beginning, and with one heart ſolemnly joyne together in all parts of the publique Worſhip; and not depart till after the Bleſsing.</p>
+            <p>That what time is vacant, between, or after the ſolemne meetings of the Congregation in publique, be ſpent in Reading, Meditation, Repetition of Sermons; (eſpecially, by calling their families to an account of what they have heard,) and catechizing of them, holy confe<g ref="char:EOLhyphen"/>rences, Prayer for a bleſsing upon the Pub<g ref="char:EOLhyphen"/>lique Ordinances, ſinging of Pſalms, viſiting the ſick, relieving the poore, and ſuch like du<g ref="char:EOLhyphen"/>ties of piety, charity and mercy, accounting the Sabbath a delight.</p>
+         </div>
+         <div type="section">
+            <pb n="58" facs="tcp:51481:34"/>
+            <head>The Solemnization of Marriage.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Lthough Marriage be no ſacrament, nor peculiar to the Church of God, but common to mankind, and of Publique intereſt in every Common<g ref="char:EOLhyphen"/>wealth; yet becauſe ſuch as marry are to marry in the Lord, and have ſpeciall need of Inſtru<g ref="char:EOLhyphen"/>ction, Direction, and Exhortation, from the Word of God at their entring into ſuch a new condition; and, of the bleſsing of God upon them therein; we judge it expedient, that mar<g ref="char:EOLhyphen"/>riage be ſolemnized by a lawfull Miniſter of the Word, that he may accordingly counſell them, and pray for a bleſsing upon them.</p>
+            <p>Marriage is to be betwixt one man and one woman onely; and they, ſuch as are not within the degrees of Conſanguinity or Affinity pro<g ref="char:EOLhyphen"/>hibited by the Word of God. And the parties are to be of years of diſcretion, fit to make their own choice, or upon good grounds, to give their mutuall conſent.</p>
+            <p>
+               <pb n="59" facs="tcp:51481:34"/>Before the ſolemnizing of Marriage be<g ref="char:EOLhyphen"/>tween any Perſons, their purpoſe of Marriage ſhall be publiſhed by the Miniſter three ſeve<g ref="char:EOLhyphen"/>rall Sabbath dayes in the Congregation, at the place or places of their moſt uſuall and con<g ref="char:EOLhyphen"/>ſtant abode reſpectively. And of this Publica<g ref="char:EOLhyphen"/>tion, the Miniſter, who is to joyne them in mar<g ref="char:EOLhyphen"/>riage, ſhall have ſufficient Teſtimony, before he proceed to ſolemnize the marriage.</p>
+            <p>Before that Publication of ſuch their pur<g ref="char:EOLhyphen"/>poſe (if the parties be under age) the conſent of the Parents, or others, under whoſe power they are (in caſe the Parents be dead) is to be made known to the Church Officers of that Congregation, to be Recorded.</p>
+            <p>The like is to be obſerved in the procee<g ref="char:EOLhyphen"/>dings of all others, although of age, whoſe Pa<g ref="char:EOLhyphen"/>rents are living, for their firſt marriage. And in after marriages of either of thoſe parties, they ſhall be exhorted not to contract marriage, without firſt acquainting their Parents with it, (if with conveniency it may be done) ende<g ref="char:EOLhyphen"/>vouring to obtaine their conſent.</p>
+            <p>Parents ought not to force their children to marry without their free conſent, nor deny<pb n="60" facs="tcp:51481:35"/>their own conſent without juſt cauſe.</p>
+            <p>After the purpoſe or contract of marriage hath beene thus publiſhed, the marriage is not to be long deferred. Therefore, the Miniſter, having had convenient warning, and nothing being objected to hinder it, is publiquely to ſolemnize it in the place appointed by Authority for pub<g ref="char:EOLhyphen"/>lique Worſhip, before a competent number of credible witneſſes, at ſome convenient houre of the day, at any time of the year, except on a day of Publique humiliation. And we adviſe that it be not on the Lords Day.</p>
+            <p>And becauſe all Relations are ſanctified by the Word and Prayer, the Miniſter is to pray for a bleſsing upon them, to this effect:</p>
+            <p>
+               <hi>Acknowledging our ſins, whereby we have made our ſelves leſſe then the leaſt of all the mercies of God, and provok'd him to imbitter all our comforts, ear<g ref="char:EOLhyphen"/>neſtly in the name of Chriſt to intreat the Lord (whoſe preſence and favour is the happineſſe of every condition, and ſweeten's every Relation) to be their<pb n="61" facs="tcp:51481:35"/>Portion, and to owne and accept them in Chriſt, who are now to be joyned in the ho<g ref="char:EOLhyphen"/>nourable Eſtate of Marriage, the Cove<g ref="char:EOLhyphen"/>nant of their God: and that as he hath brought them together by his Providence, he would ſanctifie them by his Spirit, gi<g ref="char:EOLhyphen"/>ving them a new frame of heart fit for their new eſtate; enriching them with all Graces, whereby they may perform the duties, enjoy the comforts, undergoe the cares, and reſiſt the temptations which accompany that condition, as becommeth Chriſtians.</hi>
+            </p>
+            <p>The Prayer being ended, it is convenient that the Miniſter doe briefly declare unto them, out of the Scripture,</p>
+            <p>
+               <hi>The Inſtitution, <g ref="char:V">Ʋ</g>ſe, and ends of mar<g ref="char:EOLhyphen"/>riage, with the Conjugall duties which in all faithfulneſſe they are to perform each to other, exhorting them to ſtudy the holy<pb n="62" facs="tcp:51481:36"/>Word of God, that they may learn to live by faith, and to be content in the midſt of all marriage cares and troubles, ſanctify<g ref="char:EOLhyphen"/>ing Gods name in a thankefull, ſober, and holy uſe of all Conjugall comforts, pray<g ref="char:EOLhyphen"/>ing much with, and for, one another, watching over, and provoking each other to love and good works, and to live toge<g ref="char:EOLhyphen"/>ther as the heires of the Grace of life.</hi>
+            </p>
+            <p>After ſolemn charging of the perſons to be married, before the Great God, who ſearcheth all hearts, and to whom they muſt give a ſtrict account at the laſt Day, that if either of them know any cauſe, by praecontract or other<g ref="char:EOLhyphen"/>wiſe, why they may not lawfully proceed to marriage, that they now diſcover it: The Mi<g ref="char:EOLhyphen"/>niſter (if no impediment be acknowledged) ſhall cauſe, firſt, the man to take the woman by the right hand, ſaying theſe words,</p>
+            <p>
+               <hi>I <hi>N.</hi> doe take thee <hi>N.</hi> to be my mar<g ref="char:EOLhyphen"/>ried
+<pb n="63" facs="tcp:51481:36"/>wife, and doe, in the preſence of God, and before this Congregation, promiſe and covenant to be a loving and faithfull husband unto thee, untill God ſhall ſepa<g ref="char:EOLhyphen"/>rate us by death.</hi>
+            </p>
+            <p>Then the woman ſhall take the man by his right hand, and ſay theſe words,</p>
+            <p>
+               <hi>I <hi>N.</hi> doe take thee <hi>N.</hi> to be my ma<g ref="char:EOLhyphen"/>ried husband, and I doe, in the preſence of God, and before this Congregation, promiſe and covenant to be a loving, faithfull, and obedient wife unto thee, untill God ſhall ſeparate us by death.</hi>
+            </p>
+            <p>Then, without any further Ceremony, the Miniſter ſhall, in the face of the Congregati<g ref="char:EOLhyphen"/>on, pronounce them to be husband and wife, according to Gods Ordinance; and ſo, con<g ref="char:EOLhyphen"/>clude the action with Prayer to this effect,</p>
+            <p>
+               <pb n="64" facs="tcp:51481:37"/>
+               <hi>That the Lord would be pleaſed to accompany his own Ordinance with his bleſsing, beſeeching him to enrich the per<g ref="char:EOLhyphen"/>ſons now married, as with other pledges of his love, ſo particularly with the comforts and fruits of marriage, to the praiſe of his abundant mercy, in and through Chriſt Jeſus.</hi>
+            </p>
+            <p>A Regiſter is to be carefully kept, wherein the names of the parties ſo married, with the time of their marriage, are forthwith to be fairly re<g ref="char:EOLhyphen"/>corded in a Book provided for that purpoſe, for the peruſall of all whom it may concern.</p>
+         </div>
+         <div type="section">
+            <head>Concerning Viſitation of the Sicke.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is the duty of the Miniſter not onely to teach the People committed to his charge, in publique, but privatly &amp; par<g ref="char:EOLhyphen"/>ticularly to admoniſh, exhort, reproove &amp; co<g ref="char:cmbAbbrStroke">̄</g>fort<pb n="65" facs="tcp:51481:37"/>them, upon all ſeaſonable occaſions, ſo far as his time, ſtrength, and perſonall ſafety will permit.</p>
+            <p>He is to admoniſh them, in time of health to prepare for death; and for that purpoſe they are often to confer with their Miniſter about the eſtate of their ſouls: and, in times of ſick<g ref="char:EOLhyphen"/>neſſe to deſire his advice and help, timely and ſ<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>bly, before their ſtrength and under<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ing <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them.</p>
+            <p>Times of Sickneſſe and affliction are ſpe<g ref="char:EOLhyphen"/>ciall opportunities put into his hand by God, to miniſter a word in ſeaſon to weary ſouls: becauſe then the Conſciences of men are, or ſhould be more awakened to bethink them<g ref="char:EOLhyphen"/>ſelves of their Spirituall eſtates for Eternity, and Satan alſo takes advantage then, to load them more with ſore and heavy temptations: Therefore the Miniſter being ſent for, and re<g ref="char:EOLhyphen"/>pairing to the ſick, is to apply himſelf with all tenderneſſe and love, to adminiſter ſome Spirituall good to his ſoul, to this effect:</p>
+            <p>He may, from the conſideration of the pre<g ref="char:EOLhyphen"/>ſent ſickneſſe, inſtruct him out of Scripture, that diſeaſes come not by chance, or by diſtem<g ref="char:EOLhyphen"/>pers<pb n="66" facs="tcp:51481:38"/>of body only, but by the wiſe and order<g ref="char:EOLhyphen"/>ly guidance of the good hand of God to every particular perſon ſmitten by them. And that whether it be laid upon him out of diſplea<g ref="char:EOLhyphen"/>ſure for ſin, for his correction and amend<g ref="char:EOLhyphen"/>ment, or for Triall, and exerciſe of his graces, or for other ſpeciall and excellent ends, all his ſuffrings ſhall turn to his profit, and work to<g ref="char:EOLhyphen"/>gether for his good, if he ſincerely labour to make a ſanctified uſe of Gods Viſitation, nei<g ref="char:EOLhyphen"/>ther deſpiſing his chaſtening, nor waxing weary of his correction.</p>
+            <p>If he ſuſpect him of ignorance, he ſhall examine him in the Principles of Religion, eſpecially touching Repentance and Faith; and, as he ſeeth cauſe, inſtruct him in the na<g ref="char:EOLhyphen"/>ture, uſe, excellency, and neceſsity of thoſe graces; as alſo touching the Covenant of Grace, and Chriſt the Son of God, the Media<g ref="char:EOLhyphen"/>tor of it, and concerning Remiſsion of ſins by faith in him.</p>
+            <p>He ſhall exhort the ſick perſon to examine himſelf, to ſearch and try his former wayes, and his eſtate towards God.</p>
+            <p>And if the ſick perſon ſhall declare any<pb n="67" facs="tcp:51481:38"/>ſcruple, doubt or temptation th<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> are upon him, inſtructions and reſolutions ſhall be gi<g ref="char:EOLhyphen"/>ven to ſatisfie and ſettle him.</p>
+            <p>If it appear that he hath not a due ſen<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of his ſins, endeavours ought to be uſed to convince him of his ſins, of the guilt and deſer<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of them; of the filth and pollution, which the ſoul con<g ref="char:EOLhyphen"/>tracts by them, and of the curſe of the Law, and wrath of God due to them; that he may be truly affected with, and humbled for them; and withall to make known the danger of de<g ref="char:EOLhyphen"/>ferring Repentance, and of neglecting ſalva<g ref="char:EOLhyphen"/>tion at any time offered, to awaken his Con<g ref="char:EOLhyphen"/>ſcience, and rowze him out of a ſtupid and ſe<g ref="char:EOLhyphen"/>cure condition, to apprehend the Juſtice and wrath of God, before whom none can ſtand, but he that being loſt in himſelf, layeth hold upon Chriſt by Faith.</p>
+            <p>If he have endeavoured to walk in the wayes of holineſſe, and to ſerve God in up<g ref="char:EOLhyphen"/>rightneſſe, although not without many fail<g ref="char:EOLhyphen"/>ings and infirmities; or if his ſpirit be broken with the ſenſe of ſin, or caſt down through want of the ſence of Gods favour; then it will be fit to raiſe him up, by ſetting before him<pb n="68" facs="tcp:51481:39"/>the freeneſs and fulneſs of Gods grace, the ſuf<g ref="char:EOLhyphen"/>ficiency of righteouſneſſe in Chriſt, the gra<g ref="char:EOLhyphen"/>cious offers in the Goſpel, that all who repent and believe with all their heart in Gods mercy through Chriſt, renouncing their own righ<g ref="char:EOLhyphen"/>teouſnes, ſhall have life and ſalvation in him. It may be alſo uſefull to ſhew him, that death hath in it no Spirituall evill to be feared by thoſe that are in Chriſt, becauſe ſin the ſting of death is taken away by Chriſt, who hath delivered all that are his from the bondage of the fear of death, triumphed over the grave, given us victory, is Himſelf entred into glo<g ref="char:EOLhyphen"/>ry, to prepare a place for His people: So that neither life nor death ſhall be able to ſeperate them from Gods love in Chriſt, in whom ſuch are ſure, though <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they muſt be laid in the duſt, to ob<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>rection to
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>.</p>
+            <p>Advice alſo may be given, as to beware of an ill grounded perſwaſion on mercy, or on the goodneſſe of his condition for heaven, ſo to diſclaime all merit in himſelf, and to caſt himſelf wholly upon God for mercy in the ſole Merits and Mediation of Jeſus Chriſt,
+<pb n="69" facs="tcp:51481:39"/>who hath engaged himſelf never to caſt off them, who in truth and ſincerity come unto him. Care alſo muſt be taken that the ſick per<g ref="char:EOLhyphen"/>ſon be not caſt down into diſpaire by ſuch a ſevere repreſentation of the wrath of God due to him for his ſins, as is not mollified by a ſea<g ref="char:EOLhyphen"/>ſonable propounding of Chriſt and his me<g ref="char:EOLhyphen"/>rit for a door of hope to every penitent Be<g ref="char:EOLhyphen"/>liever.</p>
+            <p>When the ſick perſon is beſt compoſed, may be leaſt diſturbed, and other neceſſary offices about him leaſt hindred, the Miniſter, if de<g ref="char:EOLhyphen"/>ſired, ſhall pray with him, and for him to this effect;</p>
+            <p>
+               <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and bewailing of ſin Ori<g ref="char:EOLhyphen"/>ginal and Actual, the miſerable condition of all by nature, as being Children of Wrath and under the Curſe, acknowledg<g ref="char:EOLhyphen"/>ing that all Diſeaſes, Sickneſſes, Death, and Hell it ſelf, are the proper iſſues and effects thereof: Imploring Gods mercy for the ſick perſon through the Blood of<pb n="70" facs="tcp:51481:40"/>Chriſt, beſeeching that God would open his eyes, diſcover unto him his ſins, cauſe him to ſee himſelf loſt in himſelf, make known to him the cauſe why God ſmiteth him, reveal Jeſus Chriſt to his ſoul for Righteouſneſſe and life, give unto him his holy Spirit to create and ſtrengthen faith, to lay hold upon Chriſt, to work in him comfortable evidences of his love, to arm him againſt Temptations, to take off his heart from the world, to ſanctify his preſent viſitation, to furniſh him with pa<g ref="char:EOLhyphen"/>tience and ſtrength to beare it, and to give him perſeverance in Faith to the end.</hi>
+            </p>
+            <p>
+               <hi>That if God ſhall pleaſe to adde to his dayes, he would vouchſafe to bleſſe and ſanctify all means of his recovery, to re<g ref="char:EOLhyphen"/>move the diſeaſe, renew his ſtrength, and enable him to walk worthy of God, by a<pb n="71" facs="tcp:51481:40"/>faithfull remembrance, and diligent ob<g ref="char:EOLhyphen"/>ſerving of ſuch vows and promiſes of ho<g ref="char:EOLhyphen"/>lineſſe and obedience, as men are apt to make in times of ſickneſſe, that he may glorifie God in the remaining part of his life.</hi>
+            </p>
+            <p>
+               <hi>And if God have determined to fi<g ref="char:EOLhyphen"/>niſh his dayes by the preſent Viſitation, he may finde ſuch Evidence of the Par<g ref="char:EOLhyphen"/>don of all his ſins, of his intereſt in Chriſt, and Eternall life by Chriſt, as may cauſe his inward man to be renewed, while his outward man decayeth; that he may behold Death without fear, caſt him<g ref="char:EOLhyphen"/>ſelf wholly upon Chriſt without doubt<g ref="char:EOLhyphen"/>ing, deſire to be diſſolved and to be with Chriſt, and ſo receive the end of his Faith, the Salvation of his Soule, through the only merits and in<g ref="char:EOLhyphen"/>terceſſion of the Lord Jeſus Chriſt,<pb n="72" facs="tcp:51481:41"/>our alone Saviour and All-ſufficient Redeemer.</hi>
+            </p>
+            <p>The Miniſter ſhall admoniſh him alſo (as there ſhall be cauſe) to ſet his houſe in order, thereby to prevent inconveniences, to take care for the payment of his debts, and to make reſtitution or ſatisfaction where he hath done any wrong, to be reconciled to thoſe with whom he hath been at variance, and fully to forgive all men their treſpaſſes againſt him as he expects forgiveneſſe at the hand of God.</p>
+            <p>Laſtly, the Miniſter may improve the pre<g ref="char:EOLhyphen"/>ſent occaſion to exhort thoſe about the ſick perſon, to conſider their own mortality, to re<g ref="char:EOLhyphen"/>turn to the Lord and make Peace with him; in health to prepare for ſickneſſe, death, and judgement, and all the dayes of their appoin<g ref="char:EOLhyphen"/>ted time ſo to wait untill their change come, that when Chriſt, who is our life, ſhall appear, they may appear with him in glory.</p>
+         </div>
+         <div type="section">
+            <pb n="73" facs="tcp:51481:41"/>
+            <head>Concerning Buriall of the Dead.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hen any perſon departeth this life, let the dead body, upon the day of Bu<g ref="char:EOLhyphen"/>riall, be decently attended from the houſe to the place appointed for publique Buriall, and there immediately inter<g ref="char:EOLhyphen"/>red, without any Ceremony.</p>
+            <p>And becauſe the cuſtomes of kneeling down, and praying by, or towards the dead Corps, and other ſuch uſages, in the place where it lies, before it be carried to Buriall, are Superſtitious: and for that, praying, reading, and ſinging both in going to, and at the Grave, have been groſly abuſed, are no way benefi<g ref="char:EOLhyphen"/>ciall to the dead, and have proved many wayes hurtfull to the living, therefore let all ſuch things be laid aſide.</p>
+            <p>Howbeit, we judge it very convenient, that<pb n="74" facs="tcp:51481:42"/>the Chriſtian friends which accompany the dead body to the place appointed for publique Buriall, doe apply themſelves to meditations, and conferences ſuitable to the occaſion: and, that the Miniſter, as upon other occaſions, ſo at this time, if he be preſent, may put them in remembrance of their Duty.</p>
+            <p>That this ſhall not extend to deny any civill reſpects or differences at the Buriall, ſuitable to the ranke and condition of the party deceaſed whiles he was living.</p>
+         </div>
+         <div type="section">
+            <head>Concerning Publique Solemne Faſting.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hen ſome great and notable Judge<g ref="char:EOLhyphen"/>ments are either inflicted upon a People, or apparently imminent, or by ſome extraordinary provo<g ref="char:EOLhyphen"/>cations notoriouſly deſerved; as alſo, when ſome ſpeciall bleſsing is to bee ſought and<pb n="75" facs="tcp:51481:42"/>obtained, Publique ſolemne Faſting (which is to continue the whole Day) is a Duty that God expecteth from that Nation, or people.</p>
+            <p>A Religious Faſt requires totall abſtinence, not only from all food (unleſſe bodily weak<g ref="char:EOLhyphen"/>neſſe doe manifeſtly diſable from holding out till the Faſt be ended, in which caſe ſomewhat may be taken, yet very ſparingly, to ſupport na<g ref="char:EOLhyphen"/>ture when ready to faint;) but alſo from all worldly labour, diſcourſes and thoughts, and from all bodily delights, (although at other times lawfull) rich apparell, ornaments and ſuch like, during the Faſt; and much more, from what ever is, in the nature, or uſe, ſcanda<g ref="char:EOLhyphen"/>lous and offenſive; as, gariſh attire, laſcivious habits and geſtures, and other vanities of either ſexe, which we recommend to all Miniſters in their places, diligently &amp; zealouſly to reproove, as at other times, ſo eſpecially at a Faſt, without reſpect of perſons as there ſhall be occaſion.</p>
+            <p>Before the Publique meeting, each Family, and perſon apart, are privately to uſe all religi<g ref="char:EOLhyphen"/>ous care to prepare their hearts to ſuch a ſo<g ref="char:EOLhyphen"/>lemne work; and, to be early at the Congrega<g ref="char:EOLhyphen"/>tion.</p>
+            <p>
+               <pb n="76" facs="tcp:51481:43"/>So large a portion of the Day, as convenient<g ref="char:EOLhyphen"/>ly may be, is to be ſpent in Publique Reading, and Preaching of the Word, with ſinging of Pſalmes fit to quicken affections ſuitable to ſuch a Duty; but eſpecially in Prayer, to this or the like effect.</p>
+            <p>
+               <hi>Giving Glory to the Great Majeſty of God, the Creator, Preſerver, and Su<g ref="char:EOLhyphen"/>preame Ruler of all the World, the better to affect us thereby with an holy reverence and awe of Him. Acknowledging his manifold, great, and tender mercies, e<g ref="char:EOLhyphen"/>ſpecially to the Church and Nation, the more effectually to ſoften, and abaſe our hearts before him. Humbly confeſsing of ſins of all ſorts, with their ſeverall aggravations: juſtifying Gods righteous Judgements, as being farre leſſe then our ſins doe deſerve; yet humbly and earneſt<g ref="char:EOLhyphen"/>ly imploring his mercy and grace for our
+<pb n="77" facs="tcp:51481:43"/>ſelves, the Church, and Nation, for our King, and all in Authority, and for all o<g ref="char:EOLhyphen"/>thers for whom we are bound to pray (ac<g ref="char:EOLhyphen"/>cording as the preſent exigent requireth) with more ſpeciall importunity and in<g ref="char:EOLhyphen"/>largement then at other times. Applying by faith, the Promiſes and Goodneſſe of God, for Pardon, help, and deliverance from the Evils felt, feared, or deſerved; and for obtaining the bleſsings which we need and expect; together with a giving up of our ſelves wholly and for ever un<g ref="char:EOLhyphen"/>to the Lord.</hi>
+            </p>
+            <p>In all theſe, the Miniſters, who are the mouthes of the people unto God, ought ſo to ſpeak from their hearts upon ſerious and through premeditation of them, that both themſelves and their people may be much af<g ref="char:EOLhyphen"/>fected, and even melted thereby; eſpecially with ſorrow for their ſins, that it may be in<g ref="char:EOLhyphen"/>deed<pb n="78" facs="tcp:51481:44"/>a Day of deepe humiliation and afflicting of the ſoul.</p>
+            <p>Speciall choice is to be made of ſuch Scri<g ref="char:EOLhyphen"/>ptures to be read, and of ſuch Texts for Preach<g ref="char:EOLhyphen"/>ing, as may beſt work the hearts of the hearers to the ſpeciall buſineſſe of the day, and moſt diſpoſe them to humiliation and repentance; in<g ref="char:EOLhyphen"/>ſiſting moſt on thoſe particulars, which each Miniſters obſervation and experience tels him are moſt conducing to the edification, and re<g ref="char:EOLhyphen"/>formation of that Congregation to which he preacheth.</p>
+            <p>Before the cloſe of the Publique Duties, the Miniſter is, in his own, and the peoples names, to engage his and their hearts to be the Lords, with profeſſed purpoſe and reſolution to re<g ref="char:EOLhyphen"/>form what ever is amiſſe among them, and more particularly ſuch ſins as they have been more remarkably guilty of; and, to draw nee<g ref="char:EOLhyphen"/>rer unto God, and to walk more cloſely and faithfully with him in new obedience, then ever before.</p>
+            <p>He is alſo to admoniſh the people with all importunity, that the work of that day doth not<pb n="79" facs="tcp:51481:44"/>end with the Publique duties of it, but that they are ſo to improve the remainder of the day, and of their whole life, in reinforcing upon them<g ref="char:EOLhyphen"/>ſelves and their families in private, all thoſe god<g ref="char:EOLhyphen"/>ly affections and reſolutions which they pro<g ref="char:EOLhyphen"/>feſſed in Publique, as that they may be ſetled in their hearts for ever, and themſelves may more ſenſibly finde that God hath ſmelt a ſweet ſa<g ref="char:EOLhyphen"/>vour in Chriſt from their performances, and is pacified towards them, by anſwers of Grace, in pardoning of ſin, in removing of Judgements, in averting or preventing of plagues, and in conferring of bleſsings ſuitable to the conditi<g ref="char:EOLhyphen"/>ons and prayers of his people, by Jeſus Chriſt.</p>
+            <p>Beſide ſolemne &amp; generall Faſts injoyned by Authority, we judge, that at other times, Con<g ref="char:EOLhyphen"/>gregations may keepe dayes of Faſting, as Di<g ref="char:EOLhyphen"/>vine Providence ſhall adminiſter unto them ſpeciall occaſions. And alſo that Families may doe the ſame, ſo it be not on dayes wherein the Congregation to which they doe belong, is to meet for faſting, or other publique Duties of Worſhip.</p>
+         </div>
+         <div type="section">
+            <pb n="80" facs="tcp:51481:45"/>
+            <head>Concerning the Obſer<g ref="char:EOLhyphen"/>vation of Dayes of Publique Thankeſgiving.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hen any ſuch Day is to be kept, let notice be given of it, and of the occaſion thereof, ſome convenient time before, that the people may the better prepare themſelves thereunto.</p>
+            <p>The Day being come, and the Congregation (after private preparations) being aſſembled, the Miniſter is to begin with a word of Exhorta<g ref="char:EOLhyphen"/>tion to ſtir up the people to the Duty for which they are met, and with a ſhort prayer for Gods aſsiſtance and bleſsing (as at other Conventions for Publique Worſhip) according to the parti<g ref="char:EOLhyphen"/>cular occaſion of their meeting.</p>
+            <p>Let him then make ſome pithy narration of the Deliverance obtained, or Mercy received, or of whatever hath occaſioned that aſſembling of the Congregation, that all may better under<g ref="char:EOLhyphen"/>ſtand
+<pb n="81" facs="tcp:51481:45"/>it, or be minded of it, and more affected with it.</p>
+            <p>And becauſe ſinging of Pſalmes is of all o<g ref="char:EOLhyphen"/>ther the moſt proper Ordinance for expreſsing of Joy and Thankſgiving, let ſome pertinent Pſalme or Pſalmes be ſung for that purpoſe, before or after the reading of ſome portion of the Word ſuitable to the preſent buſineſſe.</p>
+            <p>Then let the Miniſter who is to preach, pro<g ref="char:EOLhyphen"/>ceed to further Exhortation and Prayer before his Sermon, with ſpeciall reference to the pre<g ref="char:EOLhyphen"/>ſent work: after which let him preach upon ſome Text of Scripture pertinent to the occa<g ref="char:EOLhyphen"/>ſion.</p>
+            <p>The Sermon ended, let him not only pray, as at other times after preaching is directed, with remembrance of the neceſsities of the Church, King, and State (if before the Ser<g ref="char:EOLhyphen"/>mon they were omitted) but inlarge himſelf in due and ſolemn Thankſgiving for former mer<g ref="char:EOLhyphen"/>cies and deliverances, but more eſpecially for that which at the preſent calls them together to give thanks: with humble petition for the con<g ref="char:EOLhyphen"/>tinuance and renewing of Gods wonted mer<g ref="char:EOLhyphen"/>cies, as need ſhall bee, and for ſanctifying grace<pb n="82" facs="tcp:51481:46"/>to make a right uſe thereof. And ſo, having ſung another Pſalme ſuitable to the mercy, let him diſmiſſe the Congregation with a bleſsing, that they may have ſome convenient time for their repaſt and refreſhing.</p>
+            <p>But the Miniſter (before their diſmiſsion) is ſolemnly to admoniſh them, to beware of all exceſſe and riot, tending to gluttony or drun<g ref="char:EOLhyphen"/>kenneſſe, and much more of theſe ſins them<g ref="char:EOLhyphen"/>ſelves, in their eating and refreſhing, and to take care that their mirth and rejoycing be not car<g ref="char:EOLhyphen"/>nall, but ſpirituall, which may make Gods praiſe to be glorious, and themſelves humble and ſober; and that both their feeding and re<g ref="char:EOLhyphen"/>joycing may render them more cheerfull and inlarged further to celebrate his Praiſes in the midſt of the Congregation, when they return unto it, in the remaining part of that Day.</p>
+            <p>When the Congregation ſhall be againe aſ<g ref="char:EOLhyphen"/>ſembled, the like courſe in praying, reading, preaching, ſinging of Pſalmes, and offering up of more praiſe and thankſgiving, that is before directed for the morning, is to be renewed and continued ſo far as the time will give leave.</p>
+            <p>At one or both of the publique meetings<pb n="83" facs="tcp:51481:46"/>that day, a Collection is to be made for the poor (and in the like manner upon the Day of Publique Humiliation) that their loynes may bleſſe us, and rejoyce the more with us. And the people are to be exhorted at the end of the latter meeting, to ſpend the reſidue of that Day in holy duties, and teſtifications of Chriſtian love and charity one towards another, and of rejoycing more and more in the Lord; as be<g ref="char:EOLhyphen"/>commeth thoſe who make the joy of the Lord their ſtrength.</p>
+         </div>
+         <div type="section">
+            <head>Of Singing of Pſalmes.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is the duty of Chriſtians to praiſe God publiquely by ſinging of Pſalmes together in the Con<g ref="char:EOLhyphen"/>gregation, and alſo privately in the Family.</p>
+            <p>In ſinging of Pſalmes, the voice is to be tu<g ref="char:EOLhyphen"/>nably and gravely ordered: but the chief care<pb n="84" facs="tcp:51481:47"/>muſt be, to ſing with underſtanding, and with Grace in the heart, making melody unto the Lord.</p>
+            <p>That the whole Congregation may joyne herein, every one that can reade is to have a Pſalme book, and all others not diſabled by age, or otherwiſe, are to be exhorted to learn to reade. But for the preſent, where many in the Congregation cannot read, it is convenient that the Miniſter, or ſome other fit perſon appointed by him and the other Ruling Officers, doe read the Pſalme, line by line, before the ſinging thereof.</p>
+         </div>
+         <div type="appendix">
+            <pb n="85" facs="tcp:51481:47"/>
+            <head>An Appendix touching Dayes and Pla<g ref="char:EOLhyphen"/>ces for Publique worſhip.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Here is no Day commanded in Scripture to be kept holy under the Goſpell, but the Lords day, which is the Chriſtian Sabbath.</p>
+            <p>Feſtivall daies, vulgarly called Ho<g ref="char:EOLhyphen"/>ly daies, having no warrant in the word of God, are not to be continued.</p>
+            <p>Nevertheleſſe it is lawfull and ne<g ref="char:EOLhyphen"/>ceſſary upon ſpeciall emergent occa<g ref="char:EOLhyphen"/>ſions, to ſeparate a day or daies for Publique Faſting or Thankſgiving, as the ſeverall eminent and extraordi<g ref="char:EOLhyphen"/>narie diſpenſations of Gods provi<g ref="char:EOLhyphen"/>dence ſhall adminiſter cauſe and op<g ref="char:EOLhyphen"/>portunity to his people.</p>
+            <p>As no place is capable of any holi<g ref="char:EOLhyphen"/>nes under pretence of whatſoev<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> De<g ref="char:EOLhyphen"/>dication
+<pb n="86" facs="tcp:51481:48"/>or Conſecration, ſo neither is it ſubject to ſuch pollution by any ſu<g ref="char:EOLhyphen"/>perſtition formerly uſed and now laid aſide, as may render it unlawfull or inconvenient for Chriſtians to meet together therein for the publique worſhip of God. And therefore we hold it requiſite that the places of pub<g ref="char:EOLhyphen"/>lique aſſembling for worſhip among us, ſhould be continued and imployed to that uſe.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="table_of_contents">
+            <pb facs="tcp:51481:48"/>
+            <head>THE CONTENTS.</head>
+            <list>
+               <item>
+                  <hi>THe Ordinance.</hi>
+               </item>
+               <item>
+                  <hi>The Preface.</hi> Pag. 1</item>
+               <item>
+                  <hi>Of the Aſſembling of the Congregation.</hi> 9</item>
+               <item>
+                  <hi>Of Publique reading of the holy Scripture.</hi> 12</item>
+               <item>
+                  <hi>Of Publique Prayer before the Sermon.</hi> 14</item>
+               <item>
+                  <hi>Of the Preaching of the Word.</hi> 27</item>
+               <item>
+                  <hi>Of Prayer after the Sermon.</hi> 36</item>
+               <item>
+                  <hi>Of the Sacrament of Baptiſme.</hi> 39</item>
+               <item>
+                  <hi>Of the Sacrament of the Lords Supper.</hi> 48</item>
+               <item>
+                  <hi>Of the Sanctification of the Lords Day.</hi> 56</item>
+               <item>
+                  <hi>Of the Solemnization of Marriage.</hi> 58</item>
+               <item>
+                  <hi>Of the Viſitation of the Sick.</hi> 64</item>
+               <item>
+                  <hi>Of Buriall of the Dead.</hi> 73</item>
+               <item>
+                  <hi>Of Publique ſolemne Faſting.</hi> 74</item>
+               <item>
+                  <hi>Of the obſervation of dayes of Publique thankſgiving.</hi> 80</item>
+               <item>
+                  <hi>Of ſinging of Pſalmes.</hi> 83</item>
+               <item>
+                  <hi>An Appendix touching Dayes and Places of Publique Worſhip.</hi> 85</item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
